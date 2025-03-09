@@ -1,0 +1,7345 @@
+[
+  {
+    "zip": "96106",
+    "latitude": 39.7546,
+    "longitude": -120.5951,
+    "placeName": "Clio",
+    "state": "CA"
+  },
+  {
+    "zip": "34447",
+    "latitude": 28.8049,
+    "longitude": -82.5743,
+    "placeName": "Homosassa Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34450",
+    "latitude": 28.834,
+    "longitude": -82.2822,
+    "placeName": "Inverness",
+    "state": "FL"
+  },
+  {
+    "zip": "34105",
+    "latitude": 26.1938,
+    "longitude": -81.7636,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34606",
+    "latitude": 28.4655,
+    "longitude": -82.5981,
+    "placeName": "Spring Hill",
+    "state": "FL"
+  },
+  {
+    "zip": "34614",
+    "latitude": 28.6622,
+    "longitude": -82.5236,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34736",
+    "latitude": 28.5644,
+    "longitude": -81.8745,
+    "placeName": "Groveland",
+    "state": "FL"
+  },
+  {
+    "zip": "34748",
+    "latitude": 28.808,
+    "longitude": -81.8858,
+    "placeName": "Leesburg",
+    "state": "FL"
+  },
+  {
+    "zip": "34211",
+    "latitude": 27.45,
+    "longitude": -82.3773,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34219",
+    "latitude": 27.5572,
+    "longitude": -82.396,
+    "placeName": "Parrish",
+    "state": "FL"
+  },
+  {
+    "zip": "34758",
+    "latitude": 28.1984,
+    "longitude": -81.487,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34679",
+    "latitude": 28.4302,
+    "longitude": -82.6616,
+    "placeName": "Aripeka",
+    "state": "FL"
+  },
+  {
+    "zip": "34684",
+    "latitude": 28.0848,
+    "longitude": -82.7253,
+    "placeName": "Palm Harbor",
+    "state": "FL"
+  },
+  {
+    "zip": "34954",
+    "latitude": 27.3822,
+    "longitude": -80.409,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34238",
+    "latitude": 27.2427,
+    "longitude": -82.4751,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34292",
+    "latitude": 27.09,
+    "longitude": -82.37,
+    "placeName": "Venice",
+    "state": "FL"
+  },
+  {
+    "zip": "96745",
+    "latitude": 19.5935,
+    "longitude": -155.438,
+    "placeName": "Kailua Kona",
+    "state": "HI"
+  },
+  {
+    "zip": "96780",
+    "latitude": 19.9751,
+    "longitude": -155.2203,
+    "placeName": "Papaaloa",
+    "state": "HI"
+  },
+  {
+    "zip": "96828",
+    "latitude": 21.294,
+    "longitude": -157.8226,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96850",
+    "latitude": 21.3095,
+    "longitude": -157.863,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96793",
+    "latitude": 20.8966,
+    "longitude": -156.5036,
+    "placeName": "Wailuku",
+    "state": "HI"
+  },
+  {
+    "zip": "96008",
+    "latitude": 40.7409,
+    "longitude": -122.0725,
+    "placeName": "Bella Vista",
+    "state": "CA"
+  },
+  {
+    "zip": "96017",
+    "latitude": 41.1103,
+    "longitude": -122.3161,
+    "placeName": "Castella",
+    "state": "CA"
+  },
+  {
+    "zip": "96134",
+    "latitude": 41.9316,
+    "longitude": -121.4347,
+    "placeName": "Tulelake",
+    "state": "CA"
+  },
+  {
+    "zip": "96090",
+    "latitude": 40.0271,
+    "longitude": -122.1233,
+    "placeName": "Tehama",
+    "state": "CA"
+  },
+  {
+    "zip": "96052",
+    "latitude": 40.746,
+    "longitude": -122.8426,
+    "placeName": "Lewiston",
+    "state": "CA"
+  },
+  {
+    "zip": "09052",
+    "latitude": 49.2469,
+    "longitude": 7.3698,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09081",
+    "latitude": 49.3822,
+    "longitude": 8.5823,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09094",
+    "latitude": 49.4445,
+    "longitude": 7.5553,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09100",
+    "latitude": 49.3822,
+    "longitude": 8.5823,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09173",
+    "latitude": 49.204,
+    "longitude": 11.8484,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09189",
+    "latitude": 49.2014,
+    "longitude": 7.6053,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09259",
+    "latitude": 48.8055,
+    "longitude": 13.0902,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09703",
+    "latitude": 50.9467,
+    "longitude": 5.9708,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09882",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09886",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34030",
+    "latitude": -22.9114,
+    "longitude": -43.1737,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34031",
+    "latitude": -12.0432,
+    "longitude": -77.0282,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34045",
+    "latitude": 9.9333,
+    "longitude": -84.0833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96201",
+    "latitude": 34.7167,
+    "longitude": 128.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96310",
+    "latitude": 34.163,
+    "longitude": 132.22,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96373",
+    "latitude": 26.3835,
+    "longitude": 127.8414,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96374",
+    "latitude": 26.2644,
+    "longitude": 127.7244,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34611",
+    "latitude": 28.5642,
+    "longitude": -82.4165,
+    "placeName": "Spring Hill",
+    "state": "FL"
+  },
+  {
+    "zip": "34713",
+    "latitude": 28.5494,
+    "longitude": -81.7729,
+    "placeName": "Clermont",
+    "state": "FL"
+  },
+  {
+    "zip": "34756",
+    "latitude": 28.5972,
+    "longitude": -81.6794,
+    "placeName": "Montverde",
+    "state": "FL"
+  },
+  {
+    "zip": "34209",
+    "latitude": 27.4759,
+    "longitude": -82.6167,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34432",
+    "latitude": 29.1015,
+    "longitude": -82.3413,
+    "placeName": "Dunnellon",
+    "state": "FL"
+  },
+  {
+    "zip": "34474",
+    "latitude": 29.1565,
+    "longitude": -82.2095,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34772",
+    "latitude": 28.1905,
+    "longitude": -81.2645,
+    "placeName": "Saint Cloud",
+    "state": "FL"
+  },
+  {
+    "zip": "34673",
+    "latitude": 28.2717,
+    "longitude": -82.7195,
+    "placeName": "Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "34691",
+    "latitude": 28.1913,
+    "longitude": -82.756,
+    "placeName": "Holiday",
+    "state": "FL"
+  },
+  {
+    "zip": "34697",
+    "latitude": 27.8918,
+    "longitude": -82.7248,
+    "placeName": "Dunedin",
+    "state": "FL"
+  },
+  {
+    "zip": "34946",
+    "latitude": 27.5008,
+    "longitude": -80.36,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34241",
+    "latitude": 27.2822,
+    "longitude": -82.4181,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96792",
+    "latitude": 21.4352,
+    "longitude": -158.1781,
+    "placeName": "Waianae",
+    "state": "HI"
+  },
+  {
+    "zip": "96841",
+    "latitude": 21.3103,
+    "longitude": -157.8594,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96742",
+    "latitude": 21.1929,
+    "longitude": -156.9835,
+    "placeName": "Kalaupapa",
+    "state": "HI"
+  },
+  {
+    "zip": "96761",
+    "latitude": 20.9174,
+    "longitude": -156.6772,
+    "placeName": "Lahaina",
+    "state": "HI"
+  },
+  {
+    "zip": "09021",
+    "latitude": 49.4292,
+    "longitude": 7.6969,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09103",
+    "latitude": 51.1747,
+    "longitude": 6.3169,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09128",
+    "latitude": 48.9356,
+    "longitude": 8.9604,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09225",
+    "latitude": 49.7397,
+    "longitude": 10.1507,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09250",
+    "latitude": 49.4667,
+    "longitude": 10.7,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09279",
+    "latitude": 48.8973,
+    "longitude": 9.1916,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09647",
+    "latitude": 40.6433,
+    "longitude": -3.3338,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09658",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09681",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09717",
+    "latitude": 50.8483,
+    "longitude": 5.6889,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09840",
+    "latitude": 37.9795,
+    "longitude": 23.7162,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09865",
+    "latitude": 35.5249,
+    "longitude": 24.1435,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09897",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34032",
+    "latitude": -16.5,
+    "longitude": -68.15,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34042",
+    "latitude": 14.3824,
+    "longitude": -87.6212,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34061",
+    "latitude": 8.95,
+    "longitude": -79.5833,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96322",
+    "latitude": 33.1592,
+    "longitude": 129.7228,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96323",
+    "latitude": 35.7485,
+    "longitude": 139.3485,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96347",
+    "latitude": 35.4333,
+    "longitude": 139.65,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96520",
+    "latitude": -6.2146,
+    "longitude": 106.8451,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96117",
+    "latitude": 40.4073,
+    "longitude": -120.4092,
+    "placeName": "Litchfield",
+    "state": "CA"
+  },
+  {
+    "zip": "96127",
+    "latitude": 40.4163,
+    "longitude": -120.653,
+    "placeName": "Susanville",
+    "state": "CA"
+  },
+  {
+    "zip": "96143",
+    "latitude": 39.2401,
+    "longitude": -120.0233,
+    "placeName": "Kings Beach",
+    "state": "CA"
+  },
+  {
+    "zip": "96047",
+    "latitude": 40.4318,
+    "longitude": -122.654,
+    "placeName": "Igo",
+    "state": "CA"
+  },
+  {
+    "zip": "96067",
+    "latitude": 41.3174,
+    "longitude": -122.324,
+    "placeName": "Mount Shasta",
+    "state": "CA"
+  },
+  {
+    "zip": "09026",
+    "latitude": 50.3776,
+    "longitude": 9.9109,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09057",
+    "latitude": 50,
+    "longitude": 8.6667,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09086",
+    "latitude": 49.5,
+    "longitude": 8.5,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09233",
+    "latitude": 51.2217,
+    "longitude": 6.7762,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09469",
+    "latitude": 52.369,
+    "longitude": -0.2601,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09625",
+    "latitude": 40.8522,
+    "longitude": 14.2681,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09629",
+    "latitude": 45.5467,
+    "longitude": 11.5475,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09644",
+    "latitude": 36.6255,
+    "longitude": -6.3622,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09775",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09804",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09808",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09813",
+    "latitude": 6.3005,
+    "longitude": -10.7969,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09839",
+    "latitude": 30.0626,
+    "longitude": 31.2497,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09880",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34037",
+    "latitude": 10.488,
+    "longitude": -66.8792,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96208",
+    "latitude": 37.8747,
+    "longitude": 127.7342,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96410",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96432",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96447",
+    "latitude": 16.6159,
+    "longitude": 120.3166,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96450",
+    "latitude": 14.7944,
+    "longitude": 120.2714,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96522",
+    "latitude": 22.2783,
+    "longitude": 114.1747,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96142",
+    "latitude": 39.0644,
+    "longitude": -120.1357,
+    "placeName": "Tahoma",
+    "state": "CA"
+  },
+  {
+    "zip": "96136",
+    "latitude": 40.3406,
+    "longitude": -120.2824,
+    "placeName": "Wendel",
+    "state": "CA"
+  },
+  {
+    "zip": "34133",
+    "latitude": 26.3398,
+    "longitude": -81.7787,
+    "placeName": "Bonita Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34475",
+    "latitude": 29.2573,
+    "longitude": -82.161,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34742",
+    "latitude": 28.3047,
+    "longitude": -81.4167,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34986",
+    "latitude": 27.3215,
+    "longitude": -80.403,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34274",
+    "latitude": 27.144,
+    "longitude": -82.4645,
+    "placeName": "Nokomis",
+    "state": "FL"
+  },
+  {
+    "zip": "34276",
+    "latitude": 27.3364,
+    "longitude": -82.5307,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34289",
+    "latitude": 27.0808,
+    "longitude": -82.1516,
+    "placeName": "North Port",
+    "state": "FL"
+  },
+  {
+    "zip": "96772",
+    "latitude": 19.0668,
+    "longitude": -155.6575,
+    "placeName": "Naalehu",
+    "state": "HI"
+  },
+  {
+    "zip": "96707",
+    "latitude": 21.3453,
+    "longitude": -158.087,
+    "placeName": "Kapolei",
+    "state": "HI"
+  },
+  {
+    "zip": "96802",
+    "latitude": 21.306,
+    "longitude": -157.8587,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96853",
+    "latitude": 21.4061,
+    "longitude": -157.9609,
+    "placeName": "Jbphh",
+    "state": "HI"
+  },
+  {
+    "zip": "96715",
+    "latitude": 21.9977,
+    "longitude": -159.3592,
+    "placeName": "Hanamaulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96051",
+    "latitude": 40.9105,
+    "longitude": -122.4106,
+    "placeName": "Lakehead",
+    "state": "CA"
+  },
+  {
+    "zip": "96070",
+    "latitude": 40.7352,
+    "longitude": -122.1944,
+    "placeName": "Obrien",
+    "state": "CA"
+  },
+  {
+    "zip": "96071",
+    "latitude": 40.6256,
+    "longitude": -121.4585,
+    "placeName": "Old Station",
+    "state": "CA"
+  },
+  {
+    "zip": "96094",
+    "latitude": 41.4226,
+    "longitude": -122.3861,
+    "placeName": "Weed",
+    "state": "CA"
+  },
+  {
+    "zip": "96035",
+    "latitude": 40.043,
+    "longitude": -122.1649,
+    "placeName": "Gerber",
+    "state": "CA"
+  },
+  {
+    "zip": "34436",
+    "latitude": 28.7304,
+    "longitude": -82.3077,
+    "placeName": "Floral City",
+    "state": "FL"
+  },
+  {
+    "zip": "34445",
+    "latitude": 28.9669,
+    "longitude": -82.4207,
+    "placeName": "Holder",
+    "state": "FL"
+  },
+  {
+    "zip": "34146",
+    "latitude": 25.9412,
+    "longitude": -81.7184,
+    "placeName": "Marco Island",
+    "state": "FL"
+  },
+  {
+    "zip": "34218",
+    "latitude": 27.4995,
+    "longitude": -82.7099,
+    "placeName": "Holmes Beach",
+    "state": "FL"
+  },
+  {
+    "zip": "34270",
+    "latitude": 27.4054,
+    "longitude": -82.5435,
+    "placeName": "Tallevast",
+    "state": "FL"
+  },
+  {
+    "zip": "34471",
+    "latitude": 29.1605,
+    "longitude": -82.1288,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34488",
+    "latitude": 29.2635,
+    "longitude": -81.9532,
+    "placeName": "Silver Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34957",
+    "latitude": 27.2356,
+    "longitude": -80.2277,
+    "placeName": "Jensen Beach",
+    "state": "FL"
+  },
+  {
+    "zip": "34698",
+    "latitude": 28.0284,
+    "longitude": -82.7794,
+    "placeName": "Dunedin",
+    "state": "FL"
+  },
+  {
+    "zip": "34985",
+    "latitude": 27.2939,
+    "longitude": -80.3503,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34229",
+    "latitude": 27.1838,
+    "longitude": -82.4853,
+    "placeName": "Osprey",
+    "state": "FL"
+  },
+  {
+    "zip": "34232",
+    "latitude": 27.3262,
+    "longitude": -82.4724,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34240",
+    "latitude": 27.339,
+    "longitude": -82.3473,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34484",
+    "latitude": 28.9059,
+    "longitude": -82.0612,
+    "placeName": "Oxford",
+    "state": "FL"
+  },
+  {
+    "zip": "96718",
+    "latitude": 19.5935,
+    "longitude": -155.438,
+    "placeName": "Hawaii National Park",
+    "state": "HI"
+  },
+  {
+    "zip": "96822",
+    "latitude": 21.3117,
+    "longitude": -157.8298,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96859",
+    "latitude": 21.4061,
+    "longitude": -157.9609,
+    "placeName": "Tripler Army Medical Center",
+    "state": "HI"
+  },
+  {
+    "zip": "96970",
+    "latitude": 8.786,
+    "longitude": 167.7365,
+    "placeName": "Ebeye",
+    "state": "MH"
+  },
+  {
+    "zip": "09001",
+    "latitude": 38.1105,
+    "longitude": 15.6613,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09008",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09074",
+    "latitude": 48.3569,
+    "longitude": 10.9846,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09095",
+    "latitude": 49.2231,
+    "longitude": 8.3639,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09110",
+    "latitude": 49.8472,
+    "longitude": 8.3167,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09140",
+    "latitude": 49.4804,
+    "longitude": 10.3877,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09353",
+    "latitude": 50.0826,
+    "longitude": 8.2493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09728",
+    "latitude": 64.0049,
+    "longitude": -22.5624,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "34008",
+    "latitude": 9.3219,
+    "longitude": -79.8697,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96203",
+    "latitude": 37.5339,
+    "longitude": 126.9775,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96218",
+    "latitude": 35.8703,
+    "longitude": 128.5911,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96259",
+    "latitude": 35.1028,
+    "longitude": 129.0403,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96365",
+    "latitude": 26.3652,
+    "longitude": 127.7586,
+    "placeName": "APO STA",
+    "state": ""
+  },
+  {
+    "zip": "96541",
+    "latitude": 13.4757,
+    "longitude": 144.7489,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96554",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96599",
+    "latitude": -77.846,
+    "longitude": 166.676,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96101",
+    "latitude": 41.4767,
+    "longitude": -120.5456,
+    "placeName": "Alturas",
+    "state": "CA"
+  },
+  {
+    "zip": "96088",
+    "latitude": 40.505,
+    "longitude": -121.8857,
+    "placeName": "Shingletown",
+    "state": "CA"
+  },
+  {
+    "zip": "96089",
+    "latitude": 40.6579,
+    "longitude": -122.4273,
+    "placeName": "Shasta Lake",
+    "state": "CA"
+  },
+  {
+    "zip": "96039",
+    "latitude": 41.8018,
+    "longitude": -123.388,
+    "placeName": "Happy Camp",
+    "state": "CA"
+  },
+  {
+    "zip": "96044",
+    "latitude": 41.9077,
+    "longitude": -122.5265,
+    "placeName": "Hornbrook",
+    "state": "CA"
+  },
+  {
+    "zip": "96057",
+    "latitude": 41.2475,
+    "longitude": -122.1128,
+    "placeName": "Mccloud",
+    "state": "CA"
+  },
+  {
+    "zip": "96074",
+    "latitude": 39.8772,
+    "longitude": -122.5814,
+    "placeName": "Paskenta",
+    "state": "CA"
+  },
+  {
+    "zip": "96156",
+    "latitude": 38.9352,
+    "longitude": -119.9676,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96137",
+    "latitude": 40.3038,
+    "longitude": -121.0226,
+    "placeName": "Westwood",
+    "state": "CA"
+  },
+  {
+    "zip": "34106",
+    "latitude": 26.1423,
+    "longitude": -81.796,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34661",
+    "latitude": 28.6436,
+    "longitude": -82.2638,
+    "placeName": "Nobleton",
+    "state": "FL"
+  },
+  {
+    "zip": "34753",
+    "latitude": 28.583,
+    "longitude": -81.8941,
+    "placeName": "Mascotte",
+    "state": "FL"
+  },
+  {
+    "zip": "34135",
+    "latitude": 26.3771,
+    "longitude": -81.7334,
+    "placeName": "Bonita Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34204",
+    "latitude": 27.4272,
+    "longitude": -82.4387,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34206",
+    "latitude": 27.4989,
+    "longitude": -82.5748,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34953",
+    "latitude": 27.2625,
+    "longitude": -80.3793,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34981",
+    "latitude": 27.4049,
+    "longitude": -80.3623,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34236",
+    "latitude": 27.3269,
+    "longitude": -82.5433,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96704",
+    "latitude": 19.4386,
+    "longitude": -155.8875,
+    "placeName": "Captain Cook",
+    "state": "HI"
+  },
+  {
+    "zip": "96737",
+    "latitude": 19.1002,
+    "longitude": -155.7258,
+    "placeName": "Ocean View",
+    "state": "HI"
+  },
+  {
+    "zip": "96809",
+    "latitude": 21.3062,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96863",
+    "latitude": 21.316,
+    "longitude": -157.8677,
+    "placeName": "Mcbh Kaneohe Bay",
+    "state": "HI"
+  },
+  {
+    "zip": "96708",
+    "latitude": 20.9071,
+    "longitude": -156.3,
+    "placeName": "Haiku",
+    "state": "HI"
+  },
+  {
+    "zip": "96007",
+    "latitude": 40.4574,
+    "longitude": -122.3282,
+    "placeName": "Anderson",
+    "state": "CA"
+  },
+  {
+    "zip": "96096",
+    "latitude": 40.6525,
+    "longitude": -121.8771,
+    "placeName": "Whitmore",
+    "state": "CA"
+  },
+  {
+    "zip": "96118",
+    "latitude": 39.663,
+    "longitude": -120.2297,
+    "placeName": "Loyalton",
+    "state": "CA"
+  },
+  {
+    "zip": "96021",
+    "latitude": 39.9296,
+    "longitude": -122.196,
+    "placeName": "Corning",
+    "state": "CA"
+  },
+  {
+    "zip": "96075",
+    "latitude": 40.3514,
+    "longitude": -121.765,
+    "placeName": "Paynes Creek",
+    "state": "CA"
+  },
+  {
+    "zip": "96078",
+    "latitude": 40.0815,
+    "longitude": -122.1705,
+    "placeName": "Proberta",
+    "state": "CA"
+  },
+  {
+    "zip": "96024",
+    "latitude": 40.6342,
+    "longitude": -122.9239,
+    "placeName": "Douglas City",
+    "state": "CA"
+  },
+  {
+    "zip": "09063",
+    "latitude": 49.4077,
+    "longitude": 8.6908,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09108",
+    "latitude": 48.1374,
+    "longitude": 11.5755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09360",
+    "latitude": 49.032,
+    "longitude": 8.3426,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09468",
+    "latitude": 53.9908,
+    "longitude": -1.5373,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09648",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09714",
+    "latitude": 50.8504,
+    "longitude": 4.3488,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09809",
+    "latitude": 18.3,
+    "longitude": 42.7333,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09818",
+    "latitude": 39.9086,
+    "longitude": 41.2769,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09836",
+    "latitude": 35.1753,
+    "longitude": 33.3642,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09838",
+    "latitude": 37.381,
+    "longitude": 38.4573,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09842",
+    "latitude": 37.9795,
+    "longitude": 23.7162,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09873",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09875",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96434",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96151",
+    "latitude": 38.9039,
+    "longitude": -119.995,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96132",
+    "latitude": 40.9509,
+    "longitude": -120.613,
+    "placeName": "Termo",
+    "state": "CA"
+  },
+  {
+    "zip": "96133",
+    "latitude": 38.6415,
+    "longitude": -119.5122,
+    "placeName": "Topaz",
+    "state": "CA"
+  },
+  {
+    "zip": "96148",
+    "latitude": 39.2448,
+    "longitude": -120.0521,
+    "placeName": "Tahoe Vista",
+    "state": "CA"
+  },
+  {
+    "zip": "34434",
+    "latitude": 28.9938,
+    "longitude": -82.4241,
+    "placeName": "Dunnellon",
+    "state": "FL"
+  },
+  {
+    "zip": "34104",
+    "latitude": 26.1529,
+    "longitude": -81.7417,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34141",
+    "latitude": 25.8734,
+    "longitude": -81.1599,
+    "placeName": "Ochopee",
+    "state": "FL"
+  },
+  {
+    "zip": "34601",
+    "latitude": 28.5658,
+    "longitude": -82.3737,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34602",
+    "latitude": 28.5093,
+    "longitude": -82.2957,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34609",
+    "latitude": 28.4794,
+    "longitude": -82.5083,
+    "placeName": "Spring Hill",
+    "state": "FL"
+  },
+  {
+    "zip": "34210",
+    "latitude": 27.4544,
+    "longitude": -82.6358,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34639",
+    "latitude": 28.2258,
+    "longitude": -82.4547,
+    "placeName": "Land O Lakes",
+    "state": "FL"
+  },
+  {
+    "zip": "34952",
+    "latitude": 27.2889,
+    "longitude": -80.298,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34284",
+    "latitude": 27.1675,
+    "longitude": -82.381,
+    "placeName": "Venice",
+    "state": "FL"
+  },
+  {
+    "zip": "96750",
+    "latitude": 19.5261,
+    "longitude": -155.93,
+    "placeName": "Kealakekua",
+    "state": "HI"
+  },
+  {
+    "zip": "96795",
+    "latitude": 21.3418,
+    "longitude": -157.7131,
+    "placeName": "Waimanalo",
+    "state": "HI"
+  },
+  {
+    "zip": "96811",
+    "latitude": 21.3278,
+    "longitude": -157.8294,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96823",
+    "latitude": 21.3072,
+    "longitude": -157.8465,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96825",
+    "latitude": 21.2987,
+    "longitude": -157.6985,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96751",
+    "latitude": 22.106,
+    "longitude": -159.3085,
+    "placeName": "Kealia",
+    "state": "HI"
+  },
+  {
+    "zip": "96748",
+    "latitude": 21.0905,
+    "longitude": -156.969,
+    "placeName": "Kaunakakai",
+    "state": "HI"
+  },
+  {
+    "zip": "09033",
+    "latitude": 50.0494,
+    "longitude": 10.2217,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09068",
+    "latitude": 49.4759,
+    "longitude": 10.9886,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09077",
+    "latitude": 50.4339,
+    "longitude": 8.6712,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09112",
+    "latitude": 50.5106,
+    "longitude": 10.3187,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09176",
+    "latitude": 49.1399,
+    "longitude": 9.2205,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09202",
+    "latitude": 50.0099,
+    "longitude": 8.2829,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09359",
+    "latitude": 48.6884,
+    "longitude": 9.1677,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09405",
+    "latitude": 52.0933,
+    "longitude": 1.3204,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09620",
+    "latitude": 40.8522,
+    "longitude": 14.2681,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09727",
+    "latitude": 32.3302,
+    "longitude": -64.74,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09855",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09881",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09883",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96212",
+    "latitude": 35.8703,
+    "longitude": 128.5911,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96558",
+    "latitude": 19.7542,
+    "longitude": -155.5858,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96046",
+    "latitude": 40.6137,
+    "longitude": -123.4488,
+    "placeName": "Hyampom",
+    "state": "CA"
+  },
+  {
+    "zip": "34267",
+    "latitude": 27.1861,
+    "longitude": -81.8099,
+    "placeName": "Fort Ogden",
+    "state": "FL"
+  },
+  {
+    "zip": "34269",
+    "latitude": 27.0675,
+    "longitude": -81.9855,
+    "placeName": "Arcadia",
+    "state": "FL"
+  },
+  {
+    "zip": "34608",
+    "latitude": 28.4797,
+    "longitude": -82.5562,
+    "placeName": "Spring Hill",
+    "state": "FL"
+  },
+  {
+    "zip": "34789",
+    "latitude": 28.8108,
+    "longitude": -81.8779,
+    "placeName": "Leesburg",
+    "state": "FL"
+  },
+  {
+    "zip": "34281",
+    "latitude": 27.4272,
+    "longitude": -82.4387,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34431",
+    "latitude": 29.1392,
+    "longitude": -82.5328,
+    "placeName": "Dunnellon",
+    "state": "FL"
+  },
+  {
+    "zip": "34786",
+    "latitude": 28.5006,
+    "longitude": -81.5354,
+    "placeName": "Windermere",
+    "state": "FL"
+  },
+  {
+    "zip": "34743",
+    "latitude": 28.3306,
+    "longitude": -81.3544,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34744",
+    "latitude": 28.3078,
+    "longitude": -81.3681,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34233",
+    "latitude": 27.2866,
+    "longitude": -82.477,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96734",
+    "latitude": 21.4063,
+    "longitude": -157.7448,
+    "placeName": "Kailua",
+    "state": "HI"
+  },
+  {
+    "zip": "96838",
+    "latitude": 21.349,
+    "longitude": -157.875,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96847",
+    "latitude": 21.3022,
+    "longitude": -157.8443,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96763",
+    "latitude": 20.8293,
+    "longitude": -156.921,
+    "placeName": "Lanai City",
+    "state": "HI"
+  },
+  {
+    "zip": "09036",
+    "latitude": 49.7939,
+    "longitude": 9.9512,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09047",
+    "latitude": 49.759,
+    "longitude": 9.5085,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09069",
+    "latitude": 53.5502,
+    "longitude": 8.5767,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09171",
+    "latitude": 51.9624,
+    "longitude": 7.6257,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09248",
+    "latitude": 50.5873,
+    "longitude": 8.6755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09704",
+    "latitude": 76.5311,
+    "longitude": -68.7017,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09731",
+    "latitude": 43.7632,
+    "longitude": -65.3235,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09746",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09760",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09812",
+    "latitude": 33.7215,
+    "longitude": 73.0433,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "96213",
+    "latitude": 35.8703,
+    "longitude": 128.5911,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96258",
+    "latitude": 37.754,
+    "longitude": 127.0255,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96408",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96510",
+    "latitude": 64.7361,
+    "longitude": -156.9372,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96041",
+    "latitude": 40.5504,
+    "longitude": -123.1634,
+    "placeName": "Hayfork",
+    "state": "CA"
+  },
+  {
+    "zip": "34428",
+    "latitude": 28.9584,
+    "longitude": -82.5993,
+    "placeName": "Crystal River",
+    "state": "FL"
+  },
+  {
+    "zip": "34451",
+    "latitude": 28.8358,
+    "longitude": -82.3304,
+    "placeName": "Inverness",
+    "state": "FL"
+  },
+  {
+    "zip": "34737",
+    "latitude": 28.6971,
+    "longitude": -81.7976,
+    "placeName": "Howey In The Hills",
+    "state": "FL"
+  },
+  {
+    "zip": "34762",
+    "latitude": 28.7545,
+    "longitude": -81.9151,
+    "placeName": "Okahumpka",
+    "state": "FL"
+  },
+  {
+    "zip": "34134",
+    "latitude": 26.3626,
+    "longitude": -81.8183,
+    "placeName": "Bonita Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34498",
+    "latitude": 29.0305,
+    "longitude": -82.719,
+    "placeName": "Yankeetown",
+    "state": "FL"
+  },
+  {
+    "zip": "96764",
+    "latitude": 19.9802,
+    "longitude": -155.2323,
+    "placeName": "Laupahoehoe",
+    "state": "HI"
+  },
+  {
+    "zip": "96791",
+    "latitude": 21.5766,
+    "longitude": -158.1267,
+    "placeName": "Waialua",
+    "state": "HI"
+  },
+  {
+    "zip": "96716",
+    "latitude": 21.9156,
+    "longitude": -159.592,
+    "placeName": "Hanapepe",
+    "state": "HI"
+  },
+  {
+    "zip": "96733",
+    "latitude": 20.8895,
+    "longitude": -156.4743,
+    "placeName": "Kahului",
+    "state": "HI"
+  },
+  {
+    "zip": "96014",
+    "latitude": 41.3833,
+    "longitude": -122.764,
+    "placeName": "Callahan",
+    "state": "CA"
+  },
+  {
+    "zip": "09053",
+    "latitude": 47.4926,
+    "longitude": 11.0865,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09073",
+    "latitude": 48.7035,
+    "longitude": 9.6521,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09078",
+    "latitude": 51.9624,
+    "longitude": 7.6257,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09184",
+    "latitude": 48.1374,
+    "longitude": 11.5755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09242",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09747",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09768",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09805",
+    "latitude": 25.4,
+    "longitude": 49.65,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09841",
+    "latitude": 37.9795,
+    "longitude": 23.7162,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09894",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09896",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34007",
+    "latitude": 8.9395,
+    "longitude": -79.5491,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34009",
+    "latitude": 8.9667,
+    "longitude": -79.55,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96207",
+    "latitude": 37.5339,
+    "longitude": 126.9775,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96276",
+    "latitude": 37.566,
+    "longitude": 126.9784,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96326",
+    "latitude": 35.7485,
+    "longitude": 139.3485,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96362",
+    "latitude": 26.3,
+    "longitude": 127.7667,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96364",
+    "latitude": 26.3652,
+    "longitude": 127.7586,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96367",
+    "latitude": 26.3652,
+    "longitude": 127.7586,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96368",
+    "latitude": 26.3652,
+    "longitude": 127.7586,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96150",
+    "latitude": 38.917,
+    "longitude": -119.9865,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96123",
+    "latitude": 40.7985,
+    "longitude": -120.3652,
+    "placeName": "Ravendale",
+    "state": "CA"
+  },
+  {
+    "zip": "96116",
+    "latitude": 41.2329,
+    "longitude": -120.5079,
+    "placeName": "Likely",
+    "state": "CA"
+  },
+  {
+    "zip": "96020",
+    "latitude": 40.2975,
+    "longitude": -121.2273,
+    "placeName": "Chester",
+    "state": "CA"
+  },
+  {
+    "zip": "34464",
+    "latitude": 28.9169,
+    "longitude": -82.4582,
+    "placeName": "Beverly Hills",
+    "state": "FL"
+  },
+  {
+    "zip": "34208",
+    "latitude": 27.4678,
+    "longitude": -82.512,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34222",
+    "latitude": 27.5382,
+    "longitude": -82.5006,
+    "placeName": "Ellenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34480",
+    "latitude": 29.1056,
+    "longitude": -82.098,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34223",
+    "latitude": 26.9667,
+    "longitude": -82.3599,
+    "placeName": "Englewood",
+    "state": "FL"
+  },
+  {
+    "zip": "34288",
+    "latitude": 27.0498,
+    "longitude": -82.1288,
+    "placeName": "North Port",
+    "state": "FL"
+  },
+  {
+    "zip": "96701",
+    "latitude": 21.3908,
+    "longitude": -157.9332,
+    "placeName": "Aiea",
+    "state": "HI"
+  },
+  {
+    "zip": "96762",
+    "latitude": 21.6253,
+    "longitude": -157.941,
+    "placeName": "Laie",
+    "state": "HI"
+  },
+  {
+    "zip": "96801",
+    "latitude": 21.3278,
+    "longitude": -157.8294,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96806",
+    "latitude": 21.3062,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96714",
+    "latitude": 22.1603,
+    "longitude": -159.5471,
+    "placeName": "Hanalei",
+    "state": "HI"
+  },
+  {
+    "zip": "96729",
+    "latitude": 21.173,
+    "longitude": -157.0791,
+    "placeName": "Hoolehua",
+    "state": "HI"
+  },
+  {
+    "zip": "96770",
+    "latitude": 21.1422,
+    "longitude": -157.2193,
+    "placeName": "Maunaloa",
+    "state": "HI"
+  },
+  {
+    "zip": "96003",
+    "latitude": 40.6278,
+    "longitude": -122.353,
+    "placeName": "Redding",
+    "state": "CA"
+  },
+  {
+    "zip": "96126",
+    "latitude": 39.5825,
+    "longitude": -120.3711,
+    "placeName": "Sierraville",
+    "state": "CA"
+  },
+  {
+    "zip": "09039",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09046",
+    "latitude": 48.6821,
+    "longitude": 9.0117,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09096",
+    "latitude": 50.0826,
+    "longitude": 8.2493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09099",
+    "latitude": 49.4077,
+    "longitude": 8.6908,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09258",
+    "latitude": 49.4445,
+    "longitude": 7.5553,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09263",
+    "latitude": 49.443,
+    "longitude": 7.7716,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09419",
+    "latitude": 56.8091,
+    "longitude": -2.656,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09624",
+    "latitude": 41.8919,
+    "longitude": 12.5113,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09645",
+    "latitude": 36.6255,
+    "longitude": -6.3622,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09740",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09814",
+    "latitude": 24.8608,
+    "longitude": 67.0104,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09815",
+    "latitude": -4.6167,
+    "longitude": 55.45,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09820",
+    "latitude": 42.0268,
+    "longitude": 35.1625,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09848",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09887",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09891",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34038",
+    "latitude": 4.6097,
+    "longitude": -74.0818,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96269",
+    "latitude": 35.0642,
+    "longitude": 128.7653,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96376",
+    "latitude": 26.2644,
+    "longitude": 127.7244,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96411",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96553",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09064",
+    "latitude": 50,
+    "longitude": 8.6667,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09156",
+    "latitude": 49.9679,
+    "longitude": 6.5273,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09160",
+    "latitude": 48.542,
+    "longitude": 9.7905,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09165",
+    "latitude": 50.1342,
+    "longitude": 8.9142,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09178",
+    "latitude": 48.3715,
+    "longitude": 10.8985,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09205",
+    "latitude": 52.1727,
+    "longitude": 9.2491,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09354",
+    "latitude": 54.7843,
+    "longitude": 9.4396,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09358",
+    "latitude": 50.0826,
+    "longitude": 8.2493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09494",
+    "latitude": 51.9977,
+    "longitude": -1.2047,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09774",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09831",
+    "latitude": -1.2833,
+    "longitude": 36.8167,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09843",
+    "latitude": 38.1652,
+    "longitude": 21.4086,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09847",
+    "latitude": 38.0873,
+    "longitude": 23.9764,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09879",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09892",
+    "latitude": 31.9552,
+    "longitude": 35.945,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "34024",
+    "latitude": 14.6407,
+    "longitude": -90.5133,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96283",
+    "latitude": 34.9586,
+    "longitude": 126.9728,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96306",
+    "latitude": 35.4427,
+    "longitude": 139.3693,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96370",
+    "latitude": 26.35,
+    "longitude": 127.7667,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96372",
+    "latitude": 26.2872,
+    "longitude": 127.7731,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96377",
+    "latitude": 26.3905,
+    "longitude": 127.8588,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96160",
+    "latitude": 39.328,
+    "longitude": -120.1833,
+    "placeName": "Truckee",
+    "state": "CA"
+  },
+  {
+    "zip": "34487",
+    "latitude": 28.7814,
+    "longitude": -82.6151,
+    "placeName": "Homosassa",
+    "state": "FL"
+  },
+  {
+    "zip": "34101",
+    "latitude": 26.1423,
+    "longitude": -81.796,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34107",
+    "latitude": 26.1423,
+    "longitude": -81.796,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34110",
+    "latitude": 26.2823,
+    "longitude": -81.7573,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34116",
+    "latitude": 26.1873,
+    "longitude": -81.711,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34604",
+    "latitude": 28.4409,
+    "longitude": -82.4612,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34731",
+    "latitude": 28.8639,
+    "longitude": -81.8998,
+    "placeName": "Fruitland Park",
+    "state": "FL"
+  },
+  {
+    "zip": "34202",
+    "latitude": 27.4067,
+    "longitude": -82.39,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34491",
+    "latitude": 29.0112,
+    "longitude": -82.0325,
+    "placeName": "Summerfield",
+    "state": "FL"
+  },
+  {
+    "zip": "34994",
+    "latitude": 27.1968,
+    "longitude": -80.2538,
+    "placeName": "Stuart",
+    "state": "FL"
+  },
+  {
+    "zip": "34677",
+    "latitude": 28.046,
+    "longitude": -82.6848,
+    "placeName": "Oldsmar",
+    "state": "FL"
+  },
+  {
+    "zip": "34982",
+    "latitude": 27.3908,
+    "longitude": -80.3246,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34278",
+    "latitude": 27.3316,
+    "longitude": -82.5285,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96807",
+    "latitude": 21.3062,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96813",
+    "latitude": 21.3179,
+    "longitude": -157.8521,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96013",
+    "latitude": 40.8949,
+    "longitude": -121.655,
+    "placeName": "Burney",
+    "state": "CA"
+  },
+  {
+    "zip": "96038",
+    "latitude": 41.6125,
+    "longitude": -122.5258,
+    "placeName": "Grenada",
+    "state": "CA"
+  },
+  {
+    "zip": "96058",
+    "latitude": 41.883,
+    "longitude": -121.9445,
+    "placeName": "Macdoel",
+    "state": "CA"
+  },
+  {
+    "zip": "96059",
+    "latitude": 40.4331,
+    "longitude": -121.8365,
+    "placeName": "Manton",
+    "state": "CA"
+  },
+  {
+    "zip": "96146",
+    "latitude": 39.1752,
+    "longitude": -120.1954,
+    "placeName": "Olympic Valley",
+    "state": "CA"
+  },
+  {
+    "zip": "96135",
+    "latitude": 39.8043,
+    "longitude": -120.1783,
+    "placeName": "Vinton",
+    "state": "CA"
+  },
+  {
+    "zip": "96115",
+    "latitude": 41.6682,
+    "longitude": -120.1814,
+    "placeName": "Lake City",
+    "state": "CA"
+  },
+  {
+    "zip": "34636",
+    "latitude": 28.655,
+    "longitude": -82.2677,
+    "placeName": "Istachatta",
+    "state": "FL"
+  },
+  {
+    "zip": "34712",
+    "latitude": 28.5494,
+    "longitude": -81.7729,
+    "placeName": "Clermont",
+    "state": "FL"
+  },
+  {
+    "zip": "34201",
+    "latitude": 27.4047,
+    "longitude": -82.4705,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34996",
+    "latitude": 27.1929,
+    "longitude": -80.2164,
+    "placeName": "Stuart",
+    "state": "FL"
+  },
+  {
+    "zip": "34771",
+    "latitude": 28.273,
+    "longitude": -81.2003,
+    "placeName": "Saint Cloud",
+    "state": "FL"
+  },
+  {
+    "zip": "34667",
+    "latitude": 28.3648,
+    "longitude": -82.6757,
+    "placeName": "Hudson",
+    "state": "FL"
+  },
+  {
+    "zip": "96771",
+    "latitude": 19.5506,
+    "longitude": -155.0864,
+    "placeName": "Mountain View",
+    "state": "HI"
+  },
+  {
+    "zip": "96814",
+    "latitude": 21.2998,
+    "longitude": -157.8439,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96898",
+    "latitude": 19.2836,
+    "longitude": 166.6419,
+    "placeName": "Wake Island",
+    "state": "HI"
+  },
+  {
+    "zip": "96753",
+    "latitude": 20.7441,
+    "longitude": -156.4475,
+    "placeName": "Kihei",
+    "state": "HI"
+  },
+  {
+    "zip": "96757",
+    "latitude": 21.1601,
+    "longitude": -157.0277,
+    "placeName": "Kualapuu",
+    "state": "HI"
+  },
+  {
+    "zip": "96033",
+    "latitude": 40.7035,
+    "longitude": -122.6229,
+    "placeName": "French Gulch",
+    "state": "CA"
+  },
+  {
+    "zip": "96087",
+    "latitude": 40.6109,
+    "longitude": -122.4968,
+    "placeName": "Shasta",
+    "state": "CA"
+  },
+  {
+    "zip": "96037",
+    "latitude": 41.5403,
+    "longitude": -122.9366,
+    "placeName": "Greenview",
+    "state": "CA"
+  },
+  {
+    "zip": "96092",
+    "latitude": 39.9272,
+    "longitude": -122.025,
+    "placeName": "Vina",
+    "state": "CA"
+  },
+  {
+    "zip": "09126",
+    "latitude": 49.9833,
+    "longitude": 6.6833,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09213",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09215",
+    "latitude": 53.5753,
+    "longitude": 10.0153,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09418",
+    "latitude": 58.5927,
+    "longitude": -3.5259,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09450",
+    "latitude": 51.8782,
+    "longitude": 0.5529,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09467",
+    "latitude": 51.9001,
+    "longitude": -2.0797,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09802",
+    "latitude": 21.2703,
+    "longitude": 40.4158,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09817",
+    "latitude": 38.3502,
+    "longitude": 38.3167,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09874",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34004",
+    "latitude": 9,
+    "longitude": -79.75,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96516",
+    "latitude": 28.228,
+    "longitude": -177.389,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96539",
+    "latitude": 13.4757,
+    "longitude": 144.7489,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "34103",
+    "latitude": 26.1917,
+    "longitude": -81.8039,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34112",
+    "latitude": 26.1184,
+    "longitude": -81.7361,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34117",
+    "latitude": 26.1156,
+    "longitude": -81.5239,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34139",
+    "latitude": 25.857,
+    "longitude": -81.3778,
+    "placeName": "Everglades City",
+    "state": "FL"
+  },
+  {
+    "zip": "34217",
+    "latitude": 27.4859,
+    "longitude": -82.7102,
+    "placeName": "Bradenton Beach",
+    "state": "FL"
+  },
+  {
+    "zip": "34747",
+    "latitude": 28.3037,
+    "longitude": -81.5898,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34685",
+    "latitude": 28.0967,
+    "longitude": -82.6964,
+    "placeName": "Palm Harbor",
+    "state": "FL"
+  },
+  {
+    "zip": "34949",
+    "latitude": 27.3896,
+    "longitude": -80.2615,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "96815",
+    "latitude": 21.2811,
+    "longitude": -157.8266,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96817",
+    "latitude": 21.3295,
+    "longitude": -157.8615,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96843",
+    "latitude": 21.3055,
+    "longitude": -157.853,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96769",
+    "latitude": 21.9454,
+    "longitude": -159.9214,
+    "placeName": "Makaweli",
+    "state": "HI"
+  },
+  {
+    "zip": "96099",
+    "latitude": 40.7043,
+    "longitude": -122.3878,
+    "placeName": "Redding",
+    "state": "CA"
+  },
+  {
+    "zip": "96029",
+    "latitude": 39.9024,
+    "longitude": -122.4918,
+    "placeName": "Flournoy",
+    "state": "CA"
+  },
+  {
+    "zip": "96009",
+    "latitude": 41.1315,
+    "longitude": -121.1286,
+    "placeName": "Bieber",
+    "state": "CA"
+  },
+  {
+    "zip": "96108",
+    "latitude": 41.7336,
+    "longitude": -120.3741,
+    "placeName": "Davis Creek",
+    "state": "CA"
+  },
+  {
+    "zip": "96112",
+    "latitude": 41.8644,
+    "longitude": -120.162,
+    "placeName": "Fort Bidwell",
+    "state": "CA"
+  },
+  {
+    "zip": "09123",
+    "latitude": 49.9833,
+    "longitude": 6.6833,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09131",
+    "latitude": 48.9356,
+    "longitude": 8.9604,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09177",
+    "latitude": 49.3048,
+    "longitude": 10.5931,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09211",
+    "latitude": 49.8717,
+    "longitude": 8.6503,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09249",
+    "latitude": 49.2469,
+    "longitude": 7.3698,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09415",
+    "latitude": 50.4406,
+    "longitude": -4.9954,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09421",
+    "latitude": 51.5085,
+    "longitude": -0.1257,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09422",
+    "latitude": 55.4232,
+    "longitude": -5.7347,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09459",
+    "latitude": 52.2443,
+    "longitude": 0.7724,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09464",
+    "latitude": 52.4093,
+    "longitude": 0.561,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09498",
+    "latitude": 51.5085,
+    "longitude": -0.1257,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09610",
+    "latitude": 45.402,
+    "longitude": 10.2768,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09708",
+    "latitude": 50.5879,
+    "longitude": 3.8071,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09726",
+    "latitude": 38.7167,
+    "longitude": -9.1333,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09730",
+    "latitude": 47.2999,
+    "longitude": -53.9814,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09745",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09821",
+    "latitude": 38.4127,
+    "longitude": 27.1384,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "96260",
+    "latitude": 35.9925,
+    "longitude": 128.3979,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96319",
+    "latitude": 40.6868,
+    "longitude": 141.3897,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96321",
+    "latitude": 33.1592,
+    "longitude": 129.7228,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96350",
+    "latitude": 35.2836,
+    "longitude": 139.6672,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96419",
+    "latitude": 15.1423,
+    "longitude": 120.9757,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96454",
+    "latitude": 14.7944,
+    "longitude": 120.2714,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96508",
+    "latitude": 45.7833,
+    "longitude": -86.7001,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96514",
+    "latitude": 28.228,
+    "longitude": -177.389,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96015",
+    "latitude": 41.4664,
+    "longitude": -120.9218,
+    "placeName": "Canby",
+    "state": "CA"
+  },
+  {
+    "zip": "34461",
+    "latitude": 28.8516,
+    "longitude": -82.4876,
+    "placeName": "Lecanto",
+    "state": "FL"
+  },
+  {
+    "zip": "34102",
+    "latitude": 26.134,
+    "longitude": -81.7953,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34114",
+    "latitude": 26.0143,
+    "longitude": -81.5856,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34119",
+    "latitude": 26.2665,
+    "longitude": -81.7146,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34205",
+    "latitude": 27.4841,
+    "longitude": -82.5834,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34216",
+    "latitude": 27.5291,
+    "longitude": -82.7317,
+    "placeName": "Anna Maria",
+    "state": "FL"
+  },
+  {
+    "zip": "34243",
+    "latitude": 27.4072,
+    "longitude": -82.5303,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34778",
+    "latitude": 28.5653,
+    "longitude": -81.5862,
+    "placeName": "Winter Garden",
+    "state": "FL"
+  },
+  {
+    "zip": "96721",
+    "latitude": 19.7299,
+    "longitude": -155.0907,
+    "placeName": "Hilo",
+    "state": "HI"
+  },
+  {
+    "zip": "96727",
+    "latitude": 20.0827,
+    "longitude": -155.488,
+    "placeName": "Honokaa",
+    "state": "HI"
+  },
+  {
+    "zip": "96712",
+    "latitude": 21.6312,
+    "longitude": -158.0693,
+    "placeName": "Haleiwa",
+    "state": "HI"
+  },
+  {
+    "zip": "96857",
+    "latitude": 21.4963,
+    "longitude": -158.0646,
+    "placeName": "Schofield Barracks",
+    "state": "HI"
+  },
+  {
+    "zip": "96747",
+    "latitude": 21.9213,
+    "longitude": -159.6241,
+    "placeName": "Kaumakani",
+    "state": "HI"
+  },
+  {
+    "zip": "96765",
+    "latitude": 21.9309,
+    "longitude": -159.4993,
+    "placeName": "Lawai",
+    "state": "HI"
+  },
+  {
+    "zip": "96040",
+    "latitude": 40.7677,
+    "longitude": -121.4637,
+    "placeName": "Hat Creek",
+    "state": "CA"
+  },
+  {
+    "zip": "96960",
+    "latitude": 7.1128,
+    "longitude": 171.237,
+    "placeName": "Marshall Islands",
+    "state": "MH"
+  },
+  {
+    "zip": "09007",
+    "latitude": 49.4077,
+    "longitude": 8.6908,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09058",
+    "latitude": 49.6328,
+    "longitude": 8.3592,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09060",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09098",
+    "latitude": 47.8638,
+    "longitude": 12.0105,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09137",
+    "latitude": 48.7035,
+    "longitude": 9.6521,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09162",
+    "latitude": 49.977,
+    "longitude": 9.1521,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09169",
+    "latitude": 50.5873,
+    "longitude": 8.6755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09261",
+    "latitude": 51.7391,
+    "longitude": 6.291,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09281",
+    "latitude": 48.7995,
+    "longitude": 9.7981,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09355",
+    "latitude": 53.281,
+    "longitude": 8.6986,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09461",
+    "latitude": 52.4167,
+    "longitude": 0.75,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09471",
+    "latitude": 51.6291,
+    "longitude": -0.7493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09596",
+    "latitude": 19.9064,
+    "longitude": -75.2069,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09680",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09845",
+    "latitude": 38.0413,
+    "longitude": 23.543,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09876",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34023",
+    "latitude": 13.6894,
+    "longitude": -89.1872,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96272",
+    "latitude": 36.9622,
+    "longitude": 127.0311,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96513",
+    "latitude": 58.6883,
+    "longitude": -156.6614,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96517",
+    "latitude": 34.2322,
+    "longitude": 132.5666,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96549",
+    "latitude": -35.3065,
+    "longitude": 149.1162,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96598",
+    "latitude": -89.9976,
+    "longitude": 139.2729,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "34749",
+    "latitude": 28.8108,
+    "longitude": -81.8779,
+    "placeName": "Leesburg",
+    "state": "FL"
+  },
+  {
+    "zip": "34788",
+    "latitude": 28.8887,
+    "longitude": -81.7827,
+    "placeName": "Leesburg",
+    "state": "FL"
+  },
+  {
+    "zip": "34282",
+    "latitude": 27.4272,
+    "longitude": -82.4387,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34972",
+    "latitude": 27.4203,
+    "longitude": -80.9454,
+    "placeName": "Okeechobee",
+    "state": "FL"
+  },
+  {
+    "zip": "34637",
+    "latitude": 28.2782,
+    "longitude": -82.4625,
+    "placeName": "Land O Lakes",
+    "state": "FL"
+  },
+  {
+    "zip": "34692",
+    "latitude": 28.188,
+    "longitude": -82.7346,
+    "placeName": "Holiday",
+    "state": "FL"
+  },
+  {
+    "zip": "34951",
+    "latitude": 27.5391,
+    "longitude": -80.4052,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34987",
+    "latitude": 27.2606,
+    "longitude": -80.4771,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34272",
+    "latitude": 27.147,
+    "longitude": -82.4255,
+    "placeName": "Laurel",
+    "state": "FL"
+  },
+  {
+    "zip": "34285",
+    "latitude": 27.0933,
+    "longitude": -82.4498,
+    "placeName": "Venice",
+    "state": "FL"
+  },
+  {
+    "zip": "09056",
+    "latitude": 49.6328,
+    "longitude": 8.3592,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09136",
+    "latitude": 49.5118,
+    "longitude": 7.8666,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09154",
+    "latitude": 48.7823,
+    "longitude": 9.177,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09166",
+    "latitude": 49.4891,
+    "longitude": 8.4669,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09229",
+    "latitude": 49.443,
+    "longitude": 7.7716,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09420",
+    "latitude": 51.8908,
+    "longitude": -5.1224,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09449",
+    "latitude": 51.5486,
+    "longitude": -0.4805,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09618",
+    "latitude": 40.85,
+    "longitude": 9.1667,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09643",
+    "latitude": 41.4136,
+    "longitude": -2.4132,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09725",
+    "latitude": 64.0049,
+    "longitude": -22.5624,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34022",
+    "latitude": 14.0818,
+    "longitude": -87.2068,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34035",
+    "latitude": -34.9033,
+    "longitude": -56.1882,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34040",
+    "latitude": 18.4663,
+    "longitude": -66.1057,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34054",
+    "latitude": 17.05,
+    "longitude": -61.8,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96224",
+    "latitude": 37.9211,
+    "longitude": 127.0626,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96019",
+    "latitude": 40.6969,
+    "longitude": -122.3683,
+    "placeName": "Shasta Lake",
+    "state": "CA"
+  },
+  {
+    "zip": "96022",
+    "latitude": 40.3691,
+    "longitude": -122.3375,
+    "placeName": "Cottonwood",
+    "state": "CA"
+  },
+  {
+    "zip": "96034",
+    "latitude": 41.5105,
+    "longitude": -122.5371,
+    "placeName": "Gazelle",
+    "state": "CA"
+  },
+  {
+    "zip": "96050",
+    "latitude": 41.8637,
+    "longitude": -122.8197,
+    "placeName": "Klamath River",
+    "state": "CA"
+  },
+  {
+    "zip": "96061",
+    "latitude": 40.3263,
+    "longitude": -121.5228,
+    "placeName": "Mill Creek",
+    "state": "CA"
+  },
+  {
+    "zip": "96063",
+    "latitude": 40.3564,
+    "longitude": -121.571,
+    "placeName": "Mineral",
+    "state": "CA"
+  },
+  {
+    "zip": "96056",
+    "latitude": 41.0502,
+    "longitude": -121.3991,
+    "placeName": "Mcarthur",
+    "state": "CA"
+  },
+  {
+    "zip": "96068",
+    "latitude": 41.0957,
+    "longitude": -121.183,
+    "placeName": "Nubieber",
+    "state": "CA"
+  },
+  {
+    "zip": "96140",
+    "latitude": 39.2319,
+    "longitude": -120.0753,
+    "placeName": "Carnelian Bay",
+    "state": "CA"
+  },
+  {
+    "zip": "34442",
+    "latitude": 28.9223,
+    "longitude": -82.39,
+    "placeName": "Hernando",
+    "state": "FL"
+  },
+  {
+    "zip": "34448",
+    "latitude": 28.788,
+    "longitude": -82.568,
+    "placeName": "Homosassa",
+    "state": "FL"
+  },
+  {
+    "zip": "34729",
+    "latitude": 28.6219,
+    "longitude": -81.7034,
+    "placeName": "Ferndale",
+    "state": "FL"
+  },
+  {
+    "zip": "34797",
+    "latitude": 28.7444,
+    "longitude": -81.8263,
+    "placeName": "Yalaha",
+    "state": "FL"
+  },
+  {
+    "zip": "34449",
+    "latitude": 29.0955,
+    "longitude": -82.6561,
+    "placeName": "Inglis",
+    "state": "FL"
+  },
+  {
+    "zip": "34420",
+    "latitude": 29.0531,
+    "longitude": -82.0375,
+    "placeName": "Belleview",
+    "state": "FL"
+  },
+  {
+    "zip": "34470",
+    "latitude": 29.1989,
+    "longitude": -82.0874,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34770",
+    "latitude": 28.2489,
+    "longitude": -81.2812,
+    "placeName": "Saint Cloud",
+    "state": "FL"
+  },
+  {
+    "zip": "34773",
+    "latitude": 28.1293,
+    "longitude": -81.0176,
+    "placeName": "Saint Cloud",
+    "state": "FL"
+  },
+  {
+    "zip": "34674",
+    "latitude": 28.3644,
+    "longitude": -82.6934,
+    "placeName": "Hudson",
+    "state": "FL"
+  },
+  {
+    "zip": "34682",
+    "latitude": 28.0781,
+    "longitude": -82.7637,
+    "placeName": "Palm Harbor",
+    "state": "FL"
+  },
+  {
+    "zip": "34945",
+    "latitude": 27.4382,
+    "longitude": -80.444,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34224",
+    "latitude": 26.92,
+    "longitude": -82.3048,
+    "placeName": "Englewood",
+    "state": "FL"
+  },
+  {
+    "zip": "34275",
+    "latitude": 27.1384,
+    "longitude": -82.4518,
+    "placeName": "Nokomis",
+    "state": "FL"
+  },
+  {
+    "zip": "96789",
+    "latitude": 21.4531,
+    "longitude": -158.0174,
+    "placeName": "Mililani",
+    "state": "HI"
+  },
+  {
+    "zip": "96796",
+    "latitude": 21.9571,
+    "longitude": -159.6689,
+    "placeName": "Waimea",
+    "state": "HI"
+  },
+  {
+    "zip": "96713",
+    "latitude": 20.7616,
+    "longitude": -156.0397,
+    "placeName": "Hana",
+    "state": "HI"
+  },
+  {
+    "zip": "09009",
+    "latitude": 49.4333,
+    "longitude": 7.6,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09070",
+    "latitude": 49.4424,
+    "longitude": 10.9541,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09142",
+    "latitude": 49.3305,
+    "longitude": 11.0235,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09222",
+    "latitude": 49.4759,
+    "longitude": 10.9886,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09252",
+    "latitude": 49.8414,
+    "longitude": 7.8671,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09262",
+    "latitude": 49.7144,
+    "longitude": 7.3078,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09447",
+    "latitude": 51.4015,
+    "longitude": -1.3247,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09463",
+    "latitude": 51.4015,
+    "longitude": -1.3247,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09604",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09630",
+    "latitude": 45.5467,
+    "longitude": 11.5475,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09706",
+    "latitude": 59.9291,
+    "longitude": 10.519,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09724",
+    "latitude": 50.8504,
+    "longitude": 4.3488,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09762",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09834",
+    "latitude": 26.2106,
+    "longitude": 50.6117,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "34033",
+    "latitude": -33.4569,
+    "longitude": -70.6483,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34041",
+    "latitude": 18.5001,
+    "longitude": -69.9886,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34046",
+    "latitude": 14.0818,
+    "longitude": -87.2068,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34058",
+    "latitude": 24.4333,
+    "longitude": -77.95,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96261",
+    "latitude": 37.2911,
+    "longitude": 127.0089,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96428",
+    "latitude": 14.6042,
+    "longitude": 120.9822,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96506",
+    "latitude": 51.88,
+    "longitude": -176.6581,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96521",
+    "latitude": 22.2783,
+    "longitude": 114.1747,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96128",
+    "latitude": 40.3509,
+    "longitude": -120.4068,
+    "placeName": "Standish",
+    "state": "CA"
+  },
+  {
+    "zip": "34108",
+    "latitude": 26.2416,
+    "longitude": -81.8071,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34215",
+    "latitude": 27.4713,
+    "longitude": -82.6823,
+    "placeName": "Cortez",
+    "state": "FL"
+  },
+  {
+    "zip": "34280",
+    "latitude": 27.4272,
+    "longitude": -82.4387,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34991",
+    "latitude": 27.1678,
+    "longitude": -80.2662,
+    "placeName": "Palm City",
+    "state": "FL"
+  },
+  {
+    "zip": "34690",
+    "latitude": 28.1913,
+    "longitude": -82.7279,
+    "placeName": "Holiday",
+    "state": "FL"
+  },
+  {
+    "zip": "34660",
+    "latitude": 28.067,
+    "longitude": -82.7784,
+    "placeName": "Ozona",
+    "state": "FL"
+  },
+  {
+    "zip": "34681",
+    "latitude": 28.0914,
+    "longitude": -82.7798,
+    "placeName": "Crystal Beach",
+    "state": "FL"
+  },
+  {
+    "zip": "34695",
+    "latitude": 28.0096,
+    "longitude": -82.6967,
+    "placeName": "Safety Harbor",
+    "state": "FL"
+  },
+  {
+    "zip": "34230",
+    "latitude": 27.335,
+    "longitude": -82.5372,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34277",
+    "latitude": 27.3364,
+    "longitude": -82.5307,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96749",
+    "latitude": 19.5893,
+    "longitude": -154.9926,
+    "placeName": "Keaau",
+    "state": "HI"
+  },
+  {
+    "zip": "96755",
+    "latitude": 20.2183,
+    "longitude": -155.799,
+    "placeName": "Kapaau",
+    "state": "HI"
+  },
+  {
+    "zip": "96797",
+    "latitude": 21.3982,
+    "longitude": -158.0124,
+    "placeName": "Waipahu",
+    "state": "HI"
+  },
+  {
+    "zip": "96805",
+    "latitude": 21.3062,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96767",
+    "latitude": 20.8666,
+    "longitude": -156.6467,
+    "placeName": "Lahaina",
+    "state": "HI"
+  },
+  {
+    "zip": "96069",
+    "latitude": 40.6863,
+    "longitude": -122.0409,
+    "placeName": "Oak Run",
+    "state": "CA"
+  },
+  {
+    "zip": "96125",
+    "latitude": 39.5936,
+    "longitude": -120.6269,
+    "placeName": "Sierra City",
+    "state": "CA"
+  },
+  {
+    "zip": "96032",
+    "latitude": 41.617,
+    "longitude": -122.8832,
+    "placeName": "Fort Jones",
+    "state": "CA"
+  },
+  {
+    "zip": "96097",
+    "latitude": 41.7206,
+    "longitude": -122.6376,
+    "placeName": "Yreka",
+    "state": "CA"
+  },
+  {
+    "zip": "09175",
+    "latitude": 49.8717,
+    "longitude": 8.6503,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09182",
+    "latitude": 49.6531,
+    "longitude": 9.9444,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09351",
+    "latitude": 47.7138,
+    "longitude": 7.6028,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09508",
+    "latitude": 19.9064,
+    "longitude": -75.2069,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09602",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09605",
+    "latitude": 40.6321,
+    "longitude": 17.9361,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09707",
+    "latitude": 59.9127,
+    "longitude": 10.7461,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09729",
+    "latitude": 64.2539,
+    "longitude": -15.2121,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09734",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09819",
+    "latitude": 38.4127,
+    "longitude": 27.1384,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09833",
+    "latitude": 27.9158,
+    "longitude": 34.3299,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09898",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "96339",
+    "latitude": 35.5138,
+    "longitude": 139.3937,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96343",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96348",
+    "latitude": 35.4333,
+    "longitude": 139.65,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96375",
+    "latitude": 26.2644,
+    "longitude": 127.7244,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96505",
+    "latitude": 51.88,
+    "longitude": -176.6581,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96552",
+    "latitude": -31.1998,
+    "longitude": 136.8326,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96863",
+    "latitude": 21.4505,
+    "longitude": -157.768,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96157",
+    "latitude": 38.9344,
+    "longitude": -119.9767,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96109",
+    "latitude": 40.0008,
+    "longitude": -120.1077,
+    "placeName": "Doyle",
+    "state": "CA"
+  },
+  {
+    "zip": "96119",
+    "latitude": 40.9766,
+    "longitude": -120.5548,
+    "placeName": "Madeline",
+    "state": "CA"
+  },
+  {
+    "zip": "96121",
+    "latitude": 40.1828,
+    "longitude": -120.3895,
+    "placeName": "Milford",
+    "state": "CA"
+  },
+  {
+    "zip": "96103",
+    "latitude": 40.1919,
+    "longitude": -120.1746,
+    "placeName": "Blairsden Graeagle",
+    "state": "CA"
+  },
+  {
+    "zip": "09470",
+    "latitude": 52.3642,
+    "longitude": -0.2243,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09626",
+    "latitude": 40.8522,
+    "longitude": 14.2681,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09709",
+    "latitude": 67.017,
+    "longitude": -50.6893,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09766",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09770",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09806",
+    "latitude": 28.3356,
+    "longitude": 46.1247,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09826",
+    "latitude": 39.7767,
+    "longitude": 30.5206,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09878",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34011",
+    "latitude": 8.9667,
+    "longitude": -79.55,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96204",
+    "latitude": 37.5339,
+    "longitude": 126.9775,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96257",
+    "latitude": 37.754,
+    "longitude": 127.0255,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96264",
+    "latitude": 35.9786,
+    "longitude": 126.7114,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96271",
+    "latitude": 36.9622,
+    "longitude": 127.0311,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96379",
+    "latitude": 26.3086,
+    "longitude": 127.7804,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96511",
+    "latitude": 34.2322,
+    "longitude": 132.5666,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "34429",
+    "latitude": 28.8547,
+    "longitude": -82.6669,
+    "placeName": "Crystal River",
+    "state": "FL"
+  },
+  {
+    "zip": "34137",
+    "latitude": 25.9542,
+    "longitude": -81.3575,
+    "placeName": "Copeland",
+    "state": "FL"
+  },
+  {
+    "zip": "34607",
+    "latitude": 28.5065,
+    "longitude": -82.6267,
+    "placeName": "Spring Hill",
+    "state": "FL"
+  },
+  {
+    "zip": "34711",
+    "latitude": 28.5525,
+    "longitude": -81.7574,
+    "placeName": "Clermont",
+    "state": "FL"
+  },
+  {
+    "zip": "34203",
+    "latitude": 27.4547,
+    "longitude": -82.5359,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34477",
+    "latitude": 29.1872,
+    "longitude": -82.1401,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34997",
+    "latitude": 27.1398,
+    "longitude": -80.2129,
+    "placeName": "Stuart",
+    "state": "FL"
+  },
+  {
+    "zip": "34760",
+    "latitude": 28.5547,
+    "longitude": -81.6322,
+    "placeName": "Oakland",
+    "state": "FL"
+  },
+  {
+    "zip": "34669",
+    "latitude": 28.3506,
+    "longitude": -82.6288,
+    "placeName": "Hudson",
+    "state": "FL"
+  },
+  {
+    "zip": "96781",
+    "latitude": 19.7916,
+    "longitude": -155.0984,
+    "placeName": "Papaikou",
+    "state": "HI"
+  },
+  {
+    "zip": "96816",
+    "latitude": 21.2887,
+    "longitude": -157.8006,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96849",
+    "latitude": 21.3341,
+    "longitude": -157.9172,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96741",
+    "latitude": 21.9259,
+    "longitude": -159.5303,
+    "placeName": "Kalaheo",
+    "state": "HI"
+  },
+  {
+    "zip": "96065",
+    "latitude": 40.9124,
+    "longitude": -121.9233,
+    "placeName": "Montgomery Creek",
+    "state": "CA"
+  },
+  {
+    "zip": "96048",
+    "latitude": 40.7411,
+    "longitude": -123.0718,
+    "placeName": "Junction City",
+    "state": "CA"
+  },
+  {
+    "zip": "34441",
+    "latitude": 28.9311,
+    "longitude": -82.372,
+    "placeName": "Hernando",
+    "state": "FL"
+  },
+  {
+    "zip": "34465",
+    "latitude": 28.9295,
+    "longitude": -82.4892,
+    "placeName": "Beverly Hills",
+    "state": "FL"
+  },
+  {
+    "zip": "34478",
+    "latitude": 29.1872,
+    "longitude": -82.1123,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34995",
+    "latitude": 27.1754,
+    "longitude": -80.2415,
+    "placeName": "Stuart",
+    "state": "FL"
+  },
+  {
+    "zip": "34652",
+    "latitude": 28.2326,
+    "longitude": -82.7327,
+    "placeName": "New Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "34668",
+    "latitude": 28.3011,
+    "longitude": -82.6927,
+    "placeName": "Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "34680",
+    "latitude": 28.2167,
+    "longitude": -82.7223,
+    "placeName": "Elfers",
+    "state": "FL"
+  },
+  {
+    "zip": "34983",
+    "latitude": 27.3094,
+    "longitude": -80.345,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34249",
+    "latitude": 27.2664,
+    "longitude": -82.4841,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96719",
+    "latitude": 20.238,
+    "longitude": -155.838,
+    "placeName": "Hawi",
+    "state": "HI"
+  },
+  {
+    "zip": "96726",
+    "latitude": 19.4273,
+    "longitude": -155.9133,
+    "placeName": "Honaunau",
+    "state": "HI"
+  },
+  {
+    "zip": "96709",
+    "latitude": 21.3233,
+    "longitude": -158.0058,
+    "placeName": "Kapolei",
+    "state": "HI"
+  },
+  {
+    "zip": "96786",
+    "latitude": 21.5006,
+    "longitude": -158.0435,
+    "placeName": "Wahiawa",
+    "state": "HI"
+  },
+  {
+    "zip": "96810",
+    "latitude": 21.3062,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96824",
+    "latitude": 21.2808,
+    "longitude": -157.7552,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96830",
+    "latitude": 21.2841,
+    "longitude": -157.834,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96746",
+    "latitude": 22.0868,
+    "longitude": -159.3448,
+    "placeName": "Kapaa",
+    "state": "HI"
+  },
+  {
+    "zip": "09041",
+    "latitude": 48.1374,
+    "longitude": 11.5755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09054",
+    "latitude": 49.443,
+    "longitude": 7.7716,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09082",
+    "latitude": 50.1006,
+    "longitude": 8.7665,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09192",
+    "latitude": 50.0826,
+    "longitude": 8.2493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09495",
+    "latitude": 51.4015,
+    "longitude": -1.3247,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09619",
+    "latitude": 40.8522,
+    "longitude": 14.2681,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09622",
+    "latitude": 40.8824,
+    "longitude": 14.2693,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09642",
+    "latitude": 40.4165,
+    "longitude": -3.7026,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09767",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09803",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09825",
+    "latitude": 37.9136,
+    "longitude": 40.2172,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09827",
+    "latitude": 41.0138,
+    "longitude": 28.9497,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09877",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09890",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09893",
+    "latitude": 30.0626,
+    "longitude": 31.2497,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "96543",
+    "latitude": 13.4757,
+    "longitude": 144.7489,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96546",
+    "latitude": 13.754,
+    "longitude": 100.5014,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96551",
+    "latitude": -37.847,
+    "longitude": 144.9809,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09014",
+    "latitude": 49.4077,
+    "longitude": 8.6908,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09028",
+    "latitude": 49.5431,
+    "longitude": 8.4497,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09071",
+    "latitude": 49.4429,
+    "longitude": 11.8627,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09157",
+    "latitude": 48.3715,
+    "longitude": 10.8985,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09226",
+    "latitude": 50.0494,
+    "longitude": 10.2217,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09448",
+    "latitude": 53.4295,
+    "longitude": -2.6585,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09462",
+    "latitude": 51.4015,
+    "longitude": -1.3247,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09682",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09723",
+    "latitude": 60.1695,
+    "longitude": 24.9354,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09850",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09858",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34059",
+    "latitude": 8.9395,
+    "longitude": -79.5491,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96202",
+    "latitude": 34.7167,
+    "longitude": 128.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96214",
+    "latitude": 35.2342,
+    "longitude": 128.8811,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96220",
+    "latitude": 33.4017,
+    "longitude": 126.5461,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96407",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96451",
+    "latitude": 14.7944,
+    "longitude": 120.2714,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96468",
+    "latitude": 13.754,
+    "longitude": 100.5014,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96542",
+    "latitude": 13.4757,
+    "longitude": 144.7489,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96155",
+    "latitude": 38.8449,
+    "longitude": -120.043,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96105",
+    "latitude": 39.7977,
+    "longitude": -120.1396,
+    "placeName": "Chilcoot",
+    "state": "CA"
+  },
+  {
+    "zip": "96122",
+    "latitude": 39.8105,
+    "longitude": -120.4691,
+    "placeName": "Portola",
+    "state": "CA"
+  },
+  {
+    "zip": "34446",
+    "latitude": 28.7508,
+    "longitude": -82.5139,
+    "placeName": "Homosassa",
+    "state": "FL"
+  },
+  {
+    "zip": "34266",
+    "latitude": 27.1861,
+    "longitude": -81.8667,
+    "placeName": "Arcadia",
+    "state": "FL"
+  },
+  {
+    "zip": "34251",
+    "latitude": 27.3648,
+    "longitude": -82.1849,
+    "placeName": "Myakka City",
+    "state": "FL"
+  },
+  {
+    "zip": "34482",
+    "latitude": 29.2611,
+    "longitude": -82.2195,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34992",
+    "latitude": 27.1442,
+    "longitude": -80.2006,
+    "placeName": "Port Salerno",
+    "state": "FL"
+  },
+  {
+    "zip": "34974",
+    "latitude": 27.2002,
+    "longitude": -80.841,
+    "placeName": "Okeechobee",
+    "state": "FL"
+  },
+  {
+    "zip": "34656",
+    "latitude": 28.2442,
+    "longitude": -82.7193,
+    "placeName": "New Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "34714",
+    "latitude": 28.4113,
+    "longitude": -81.7812,
+    "placeName": "Clermont",
+    "state": "FL"
+  },
+  {
+    "zip": "34231",
+    "latitude": 27.2666,
+    "longitude": -82.5163,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34295",
+    "latitude": 27.086,
+    "longitude": -82.4389,
+    "placeName": "Englewood",
+    "state": "FL"
+  },
+  {
+    "zip": "96011",
+    "latitude": 40.9749,
+    "longitude": -121.825,
+    "placeName": "Big Bend",
+    "state": "CA"
+  },
+  {
+    "zip": "09080",
+    "latitude": 50.6846,
+    "longitude": 7.1539,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09104",
+    "latitude": 50.9675,
+    "longitude": 6.1176,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09111",
+    "latitude": 49.8414,
+    "longitude": 7.8671,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09132",
+    "latitude": 49.9679,
+    "longitude": 6.5273,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09139",
+    "latitude": 49.8987,
+    "longitude": 10.9007,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09143",
+    "latitude": 50.5873,
+    "longitude": 8.6755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09172",
+    "latitude": 47.5981,
+    "longitude": 11.0669,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09186",
+    "latitude": 49.443,
+    "longitude": 7.7716,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09212",
+    "latitude": 50,
+    "longitude": 8.6667,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09228",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09456",
+    "latitude": 51.7082,
+    "longitude": -1.7813,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09810",
+    "latitude": 28.3998,
+    "longitude": 36.5715,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09824",
+    "latitude": 37.0017,
+    "longitude": 35.3289,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09851",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34003",
+    "latitude": 8.95,
+    "longitude": -79.55,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34005",
+    "latitude": 9.2917,
+    "longitude": -79.9077,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34060",
+    "latitude": 9.4008,
+    "longitude": -79.8697,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96206",
+    "latitude": 37.5339,
+    "longitude": 126.9775,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96216",
+    "latitude": 34.78,
+    "longitude": 127.0615,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96330",
+    "latitude": 35.7485,
+    "longitude": 139.3485,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96431",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96509",
+    "latitude": 64.3006,
+    "longitude": -149.1128,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96518",
+    "latitude": 19.2811,
+    "longitude": 166.6434,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96534",
+    "latitude": 1.2897,
+    "longitude": 103.8501,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96152",
+    "latitude": 38.9271,
+    "longitude": -119.999,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96162",
+    "latitude": 39.328,
+    "longitude": -120.1833,
+    "placeName": "Truckee",
+    "state": "CA"
+  },
+  {
+    "zip": "96129",
+    "latitude": 39.7721,
+    "longitude": -120.4051,
+    "placeName": "Beckwourth",
+    "state": "CA"
+  },
+  {
+    "zip": "34453",
+    "latitude": 28.8723,
+    "longitude": -82.3454,
+    "placeName": "Inverness",
+    "state": "FL"
+  },
+  {
+    "zip": "34613",
+    "latitude": 28.5466,
+    "longitude": -82.5213,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34228",
+    "latitude": 27.4125,
+    "longitude": -82.659,
+    "placeName": "Longboat Key",
+    "state": "FL"
+  },
+  {
+    "zip": "34264",
+    "latitude": 27.4475,
+    "longitude": -82.5462,
+    "placeName": "Oneco",
+    "state": "FL"
+  },
+  {
+    "zip": "34473",
+    "latitude": 29.0058,
+    "longitude": -82.1828,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34476",
+    "latitude": 29.1159,
+    "longitude": -82.2422,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34785",
+    "latitude": 28.8454,
+    "longitude": -82.0347,
+    "placeName": "Wildwood",
+    "state": "FL"
+  },
+  {
+    "zip": "96728",
+    "latitude": 19.8728,
+    "longitude": -155.1177,
+    "placeName": "Honomu",
+    "state": "HI"
+  },
+  {
+    "zip": "96776",
+    "latitude": 20.0271,
+    "longitude": -155.3697,
+    "placeName": "Paauilo",
+    "state": "HI"
+  },
+  {
+    "zip": "96804",
+    "latitude": 21.306,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96837",
+    "latitude": 21.315,
+    "longitude": -157.8633,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96840",
+    "latitude": 21.3068,
+    "longitude": -157.8607,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96752",
+    "latitude": 21.9735,
+    "longitude": -159.7199,
+    "placeName": "Kekaha",
+    "state": "HI"
+  },
+  {
+    "zip": "96001",
+    "latitude": 40.5605,
+    "longitude": -122.4116,
+    "placeName": "Redding",
+    "state": "CA"
+  },
+  {
+    "zip": "96062",
+    "latitude": 40.5653,
+    "longitude": -122.1111,
+    "placeName": "Millville",
+    "state": "CA"
+  },
+  {
+    "zip": "96055",
+    "latitude": 40.0497,
+    "longitude": -122.0992,
+    "placeName": "Los Molinos",
+    "state": "CA"
+  },
+  {
+    "zip": "09059",
+    "latitude": 49.4052,
+    "longitude": 7.4372,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09067",
+    "latitude": 49.443,
+    "longitude": 7.7716,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09090",
+    "latitude": 50.1254,
+    "longitude": 8.6089,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09214",
+    "latitude": 50.1738,
+    "longitude": 7.0633,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09216",
+    "latitude": 52.1338,
+    "longitude": 10.8897,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09245",
+    "latitude": 48.1374,
+    "longitude": 11.5755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09499",
+    "latitude": 51.5085,
+    "longitude": -0.1257,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09772",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09844",
+    "latitude": 40.6436,
+    "longitude": 22.9309,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09895",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "96278",
+    "latitude": 37.0906,
+    "longitude": 127.0296,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96336",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96338",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96382",
+    "latitude": 27,
+    "longitude": 142.1667,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96531",
+    "latitude": -43.5333,
+    "longitude": 172.6333,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96120",
+    "latitude": 38.7713,
+    "longitude": -119.8327,
+    "placeName": "Markleeville",
+    "state": "CA"
+  },
+  {
+    "zip": "96104",
+    "latitude": 41.4759,
+    "longitude": -120.1516,
+    "placeName": "Cedarville",
+    "state": "CA"
+  },
+  {
+    "zip": "34705",
+    "latitude": 28.7088,
+    "longitude": -81.7195,
+    "placeName": "Astatula",
+    "state": "FL"
+  },
+  {
+    "zip": "34212",
+    "latitude": 27.4978,
+    "longitude": -82.4101,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34260",
+    "latitude": 27.4272,
+    "longitude": -82.4387,
+    "placeName": "Manasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34483",
+    "latitude": 29.2407,
+    "longitude": -82.0875,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34956",
+    "latitude": 27.0615,
+    "longitude": -80.4803,
+    "placeName": "Indiantown",
+    "state": "FL"
+  },
+  {
+    "zip": "34787",
+    "latitude": 28.5423,
+    "longitude": -81.5911,
+    "placeName": "Winter Garden",
+    "state": "FL"
+  },
+  {
+    "zip": "34286",
+    "latitude": 27.0748,
+    "longitude": -82.1756,
+    "placeName": "North Port",
+    "state": "FL"
+  },
+  {
+    "zip": "34287",
+    "latitude": 27.0478,
+    "longitude": -82.2416,
+    "placeName": "North Port",
+    "state": "FL"
+  },
+  {
+    "zip": "34293",
+    "latitude": 27.0606,
+    "longitude": -82.352,
+    "placeName": "Venice",
+    "state": "FL"
+  },
+  {
+    "zip": "96730",
+    "latitude": 21.5481,
+    "longitude": -157.8495,
+    "placeName": "Kaaawa",
+    "state": "HI"
+  },
+  {
+    "zip": "96744",
+    "latitude": 21.4228,
+    "longitude": -157.8115,
+    "placeName": "Kaneohe",
+    "state": "HI"
+  },
+  {
+    "zip": "96821",
+    "latitude": 21.2928,
+    "longitude": -157.7552,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96848",
+    "latitude": 21.3206,
+    "longitude": -157.8126,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96854",
+    "latitude": 21.4877,
+    "longitude": -158.0351,
+    "placeName": "Wheeler Army Airfield",
+    "state": "HI"
+  },
+  {
+    "zip": "96076",
+    "latitude": 40.376,
+    "longitude": -122.937,
+    "placeName": "Platina",
+    "state": "CA"
+  },
+  {
+    "zip": "96023",
+    "latitude": 41.9194,
+    "longitude": -121.9739,
+    "placeName": "Dorris",
+    "state": "CA"
+  },
+  {
+    "zip": "96086",
+    "latitude": 41.8866,
+    "longitude": -123.2438,
+    "placeName": "Seiad Valley",
+    "state": "CA"
+  },
+  {
+    "zip": "09089",
+    "latitude": 49.9652,
+    "longitude": 8.9513,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09130",
+    "latitude": 49.5118,
+    "longitude": 7.8666,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09164",
+    "latitude": 49.0094,
+    "longitude": 8.4044,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09227",
+    "latitude": 49.443,
+    "longitude": 7.7716,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09235",
+    "latitude": 52.5244,
+    "longitude": 13.4105,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09264",
+    "latitude": 49.3048,
+    "longitude": 10.5931,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09265",
+    "latitude": 50.2023,
+    "longitude": 10.0778,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09497",
+    "latitude": 52.0933,
+    "longitude": 1.3204,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09628",
+    "latitude": 45.4299,
+    "longitude": 10.9844,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09646",
+    "latitude": 41.6561,
+    "longitude": -0.8773,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09722",
+    "latitude": 56.3067,
+    "longitude": 9.1683,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34021",
+    "latitude": 12.1328,
+    "longitude": -86.2504,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96267",
+    "latitude": 37.1522,
+    "longitude": 127.0706,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96415",
+    "latitude": 15.3312,
+    "longitude": 120.5898,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96440",
+    "latitude": 14.6042,
+    "longitude": 120.9822,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96860",
+    "latitude": 21.3448,
+    "longitude": -157.9774,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96161",
+    "latitude": 39.3385,
+    "longitude": -120.1729,
+    "placeName": "Truckee",
+    "state": "CA"
+  },
+  {
+    "zip": "96141",
+    "latitude": 39.0786,
+    "longitude": -120.1734,
+    "placeName": "Homewood",
+    "state": "CA"
+  },
+  {
+    "zip": "34433",
+    "latitude": 28.9949,
+    "longitude": -82.5196,
+    "placeName": "Dunnellon",
+    "state": "FL"
+  },
+  {
+    "zip": "34472",
+    "latitude": 29.1253,
+    "longitude": -82.0086,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34479",
+    "latitude": 29.2541,
+    "longitude": -82.1095,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34739",
+    "latitude": 27.8767,
+    "longitude": -81.05,
+    "placeName": "Kenansville",
+    "state": "FL"
+  },
+  {
+    "zip": "34688",
+    "latitude": 28.1458,
+    "longitude": -82.6825,
+    "placeName": "Tarpon Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34689",
+    "latitude": 28.1385,
+    "longitude": -82.743,
+    "placeName": "Tarpon Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34984",
+    "latitude": 27.2655,
+    "longitude": -80.3389,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "96777",
+    "latitude": 19.2079,
+    "longitude": -155.4815,
+    "placeName": "Pahala",
+    "state": "HI"
+  },
+  {
+    "zip": "96778",
+    "latitude": 19.5089,
+    "longitude": -154.9231,
+    "placeName": "Pahoa",
+    "state": "HI"
+  },
+  {
+    "zip": "96717",
+    "latitude": 21.6139,
+    "longitude": -157.9157,
+    "placeName": "Hauula",
+    "state": "HI"
+  },
+  {
+    "zip": "96826",
+    "latitude": 21.2941,
+    "longitude": -157.8284,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96839",
+    "latitude": 21.3206,
+    "longitude": -157.8126,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96844",
+    "latitude": 21.2951,
+    "longitude": -157.8162,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96705",
+    "latitude": 21.9074,
+    "longitude": -159.5832,
+    "placeName": "Eleele",
+    "state": "HI"
+  },
+  {
+    "zip": "96028",
+    "latitude": 41.0393,
+    "longitude": -121.4606,
+    "placeName": "Fall River Mills",
+    "state": "CA"
+  },
+  {
+    "zip": "96095",
+    "latitude": 40.6388,
+    "longitude": -122.5597,
+    "placeName": "Whiskeytown",
+    "state": "CA"
+  },
+  {
+    "zip": "96027",
+    "latitude": 41.4463,
+    "longitude": -123.01,
+    "placeName": "Etna",
+    "state": "CA"
+  },
+  {
+    "zip": "96010",
+    "latitude": 40.748,
+    "longitude": -123.229,
+    "placeName": "Big Bar",
+    "state": "CA"
+  },
+  {
+    "zip": "96154",
+    "latitude": 38.8753,
+    "longitude": -120.0188,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96130",
+    "latitude": 40.3983,
+    "longitude": -120.6464,
+    "placeName": "Susanville",
+    "state": "CA"
+  },
+  {
+    "zip": "96006",
+    "latitude": 41.2175,
+    "longitude": -120.9432,
+    "placeName": "Adin",
+    "state": "CA"
+  },
+  {
+    "zip": "96049",
+    "latitude": 40.7098,
+    "longitude": -122.3116,
+    "placeName": "Redding",
+    "state": "CA"
+  },
+  {
+    "zip": "96025",
+    "latitude": 41.2124,
+    "longitude": -122.2734,
+    "placeName": "Dunsmuir",
+    "state": "CA"
+  },
+  {
+    "zip": "34145",
+    "latitude": 25.9388,
+    "longitude": -81.6968,
+    "placeName": "Marco Island",
+    "state": "FL"
+  },
+  {
+    "zip": "34603",
+    "latitude": 28.5642,
+    "longitude": -82.4165,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34421",
+    "latitude": 29.2407,
+    "longitude": -82.0875,
+    "placeName": "Belleview",
+    "state": "FL"
+  },
+  {
+    "zip": "34777",
+    "latitude": 28.5416,
+    "longitude": -81.6058,
+    "placeName": "Winter Garden",
+    "state": "FL"
+  },
+  {
+    "zip": "34237",
+    "latitude": 27.3369,
+    "longitude": -82.5128,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34239",
+    "latitude": 27.3111,
+    "longitude": -82.5195,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34290",
+    "latitude": 27.0459,
+    "longitude": -82.2491,
+    "placeName": "North Port",
+    "state": "FL"
+  },
+  {
+    "zip": "96710",
+    "latitude": 19.8882,
+    "longitude": -155.1333,
+    "placeName": "Hakalau",
+    "state": "HI"
+  },
+  {
+    "zip": "96808",
+    "latitude": 21.3062,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96766",
+    "latitude": 21.9816,
+    "longitude": -159.3683,
+    "placeName": "Lihue",
+    "state": "HI"
+  },
+  {
+    "zip": "96788",
+    "latitude": 20.8559,
+    "longitude": -156.3259,
+    "placeName": "Pukalani",
+    "state": "HI"
+  },
+  {
+    "zip": "09025",
+    "latitude": 49.1113,
+    "longitude": 9.7391,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09079",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09180",
+    "latitude": 49.4131,
+    "longitude": 7.5702,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09187",
+    "latitude": 52.5244,
+    "longitude": 13.4105,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09251",
+    "latitude": 49.2469,
+    "longitude": 7.3698,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09601",
+    "latitude": 46.0706,
+    "longitude": 12.5947,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09816",
+    "latitude": 39.6492,
+    "longitude": 27.8861,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09861",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34002",
+    "latitude": 8.9733,
+    "longitude": -79.5556,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96325",
+    "latitude": 35.7485,
+    "longitude": 139.3485,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96337",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96507",
+    "latitude": 51.5672,
+    "longitude": 178.8775,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "09050",
+    "latitude": 47.7611,
+    "longitude": 11.5589,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09091",
+    "latitude": 50.2016,
+    "longitude": 9.1874,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09138",
+    "latitude": 49.2249,
+    "longitude": 7.6104,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09183",
+    "latitude": 48.1374,
+    "longitude": 11.5755,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09244",
+    "latitude": 49.7939,
+    "longitude": 9.9512,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09593",
+    "latitude": 19.9064,
+    "longitude": -75.2069,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09621",
+    "latitude": 40.8522,
+    "longitude": 14.2681,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09694",
+    "latitude": 36.9489,
+    "longitude": 14.6073,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09705",
+    "latitude": 50.5758,
+    "longitude": 3.831,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09718",
+    "latitude": 34.0133,
+    "longitude": -6.8326,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09732",
+    "latitude": 46.3168,
+    "longitude": -79.4663,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09738",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09765",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09777",
+    "latitude": 48.8534,
+    "longitude": 2.3488,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09828",
+    "latitude": -4.3276,
+    "longitude": 15.3136,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09829",
+    "latitude": 15.5518,
+    "longitude": 32.5324,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09884",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34006",
+    "latitude": 8.9171,
+    "longitude": -79.5843,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34020",
+    "latitude": 9.9333,
+    "longitude": -84.0833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34053",
+    "latitude": 18.4269,
+    "longitude": -66.1846,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96231",
+    "latitude": 36.3214,
+    "longitude": 127.4197,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96236",
+    "latitude": 33.6,
+    "longitude": 130.4167,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96318",
+    "latitude": 40.6868,
+    "longitude": 141.3897,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96328",
+    "latitude": 35.7485,
+    "longitude": 139.3485,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96512",
+    "latitude": 52.7242,
+    "longitude": 174.1189,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96158",
+    "latitude": 38.8981,
+    "longitude": -119.9984,
+    "placeName": "South Lake Tahoe",
+    "state": "CA"
+  },
+  {
+    "zip": "96114",
+    "latitude": 40.2963,
+    "longitude": -120.5098,
+    "placeName": "Janesville",
+    "state": "CA"
+  },
+  {
+    "zip": "96111",
+    "latitude": 39.3928,
+    "longitude": -120.0212,
+    "placeName": "Floriston",
+    "state": "CA"
+  },
+  {
+    "zip": "34423",
+    "latitude": 28.867,
+    "longitude": -82.5727,
+    "placeName": "Crystal River",
+    "state": "FL"
+  },
+  {
+    "zip": "34113",
+    "latitude": 26.0426,
+    "longitude": -81.7182,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34140",
+    "latitude": 25.9248,
+    "longitude": -81.6456,
+    "placeName": "Goodland",
+    "state": "FL"
+  },
+  {
+    "zip": "34136",
+    "latitude": 26.3398,
+    "longitude": -81.7787,
+    "placeName": "Bonita Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34221",
+    "latitude": 27.5429,
+    "longitude": -82.563,
+    "placeName": "Palmetto",
+    "state": "FL"
+  },
+  {
+    "zip": "34489",
+    "latitude": 29.2152,
+    "longitude": -82.0972,
+    "placeName": "Silver Springs",
+    "state": "FL"
+  },
+  {
+    "zip": "34740",
+    "latitude": 28.5454,
+    "longitude": -81.6507,
+    "placeName": "Killarney",
+    "state": "FL"
+  },
+  {
+    "zip": "34745",
+    "latitude": 28.3047,
+    "longitude": -81.4167,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34653",
+    "latitude": 28.2444,
+    "longitude": -82.6986,
+    "placeName": "New Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "34654",
+    "latitude": 28.3022,
+    "longitude": -82.6264,
+    "placeName": "New Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "96720",
+    "latitude": 19.7025,
+    "longitude": -155.0939,
+    "placeName": "Hilo",
+    "state": "HI"
+  },
+  {
+    "zip": "96739",
+    "latitude": 19.5606,
+    "longitude": -155.9623,
+    "placeName": "Keauhou",
+    "state": "HI"
+  },
+  {
+    "zip": "96743",
+    "latitude": 20.0081,
+    "longitude": -155.7052,
+    "placeName": "Kamuela",
+    "state": "HI"
+  },
+  {
+    "zip": "96760",
+    "latitude": 19.5693,
+    "longitude": -155.0349,
+    "placeName": "Kurtistown",
+    "state": "HI"
+  },
+  {
+    "zip": "96731",
+    "latitude": 21.675,
+    "longitude": -157.9725,
+    "placeName": "Kahuku",
+    "state": "HI"
+  },
+  {
+    "zip": "96803",
+    "latitude": 21.306,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96820",
+    "latitude": 21.351,
+    "longitude": -157.8795,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96756",
+    "latitude": 21.9083,
+    "longitude": -159.4749,
+    "placeName": "Koloa",
+    "state": "HI"
+  },
+  {
+    "zip": "96784",
+    "latitude": 20.8666,
+    "longitude": -156.6467,
+    "placeName": "Puunene",
+    "state": "HI"
+  },
+  {
+    "zip": "96790",
+    "latitude": 20.7534,
+    "longitude": -156.326,
+    "placeName": "Kula",
+    "state": "HI"
+  },
+  {
+    "zip": "96031",
+    "latitude": 41.2191,
+    "longitude": -123.2363,
+    "placeName": "Forks Of Salmon",
+    "state": "CA"
+  },
+  {
+    "zip": "96093",
+    "latitude": 40.7317,
+    "longitude": -122.9353,
+    "placeName": "Weaverville",
+    "state": "CA"
+  },
+  {
+    "zip": "96113",
+    "latitude": 40.1485,
+    "longitude": -120.1713,
+    "placeName": "Herlong",
+    "state": "CA"
+  },
+  {
+    "zip": "96110",
+    "latitude": 41.3163,
+    "longitude": -120.1158,
+    "placeName": "Eagleville",
+    "state": "CA"
+  },
+  {
+    "zip": "34755",
+    "latitude": 28.5744,
+    "longitude": -81.7462,
+    "placeName": "Minneola",
+    "state": "FL"
+  },
+  {
+    "zip": "34958",
+    "latitude": 27.2424,
+    "longitude": -80.2246,
+    "placeName": "Jensen Beach",
+    "state": "FL"
+  },
+  {
+    "zip": "34610",
+    "latitude": 28.4079,
+    "longitude": -82.5398,
+    "placeName": "Spring Hill",
+    "state": "FL"
+  },
+  {
+    "zip": "34655",
+    "latitude": 28.2129,
+    "longitude": -82.6807,
+    "placeName": "New Port Richey",
+    "state": "FL"
+  },
+  {
+    "zip": "34947",
+    "latitude": 27.4493,
+    "longitude": -80.3592,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34948",
+    "latitude": 27.3822,
+    "longitude": -80.409,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34950",
+    "latitude": 27.4486,
+    "longitude": -80.3385,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34988",
+    "latitude": 27.3868,
+    "longitude": -80.5037,
+    "placeName": "Port Saint Lucie",
+    "state": "FL"
+  },
+  {
+    "zip": "34242",
+    "latitude": 27.2566,
+    "longitude": -82.5398,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96740",
+    "latitude": 19.6531,
+    "longitude": -155.9798,
+    "placeName": "Kailua Kona",
+    "state": "HI"
+  },
+  {
+    "zip": "96783",
+    "latitude": 19.8353,
+    "longitude": -155.113,
+    "placeName": "Pepeekeo",
+    "state": "HI"
+  },
+  {
+    "zip": "96759",
+    "latitude": 21.463,
+    "longitude": -158.0639,
+    "placeName": "Kunia",
+    "state": "HI"
+  },
+  {
+    "zip": "96858",
+    "latitude": 21.3416,
+    "longitude": -157.8918,
+    "placeName": "Fort Shafter",
+    "state": "HI"
+  },
+  {
+    "zip": "96732",
+    "latitude": 20.8814,
+    "longitude": -156.4783,
+    "placeName": "Kahului",
+    "state": "HI"
+  },
+  {
+    "zip": "96124",
+    "latitude": 39.6139,
+    "longitude": -120.4046,
+    "placeName": "Calpine",
+    "state": "CA"
+  },
+  {
+    "zip": "09031",
+    "latitude": 49.7397,
+    "longitude": 10.1507,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09066",
+    "latitude": 49.591,
+    "longitude": 11.0078,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09097",
+    "latitude": 50,
+    "longitude": 8.6667,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09102",
+    "latitude": 49.4077,
+    "longitude": 8.6908,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09144",
+    "latitude": 50.1514,
+    "longitude": 8.425,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09185",
+    "latitude": 49.9842,
+    "longitude": 8.2791,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09237",
+    "latitude": 50.1155,
+    "longitude": 8.6842,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09333",
+    "latitude": 49.4664,
+    "longitude": 8.5577,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09719",
+    "latitude": 46.0706,
+    "longitude": 12.5947,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09721",
+    "latitude": 60.1695,
+    "longitude": 24.9354,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09754",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09822",
+    "latitude": 39.9199,
+    "longitude": 32.8543,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09830",
+    "latitude": 32.0809,
+    "longitude": 34.7806,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09864",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09866",
+    "latitude": 26.2106,
+    "longitude": 50.6117,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34010",
+    "latitude": 14.0818,
+    "longitude": -87.2068,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34036",
+    "latitude": -25.3007,
+    "longitude": -57.6359,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34039",
+    "latitude": -0.2299,
+    "longitude": -78.525,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34051",
+    "latitude": 18.235,
+    "longitude": -65.6291,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96205",
+    "latitude": 37.5339,
+    "longitude": 126.9775,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96452",
+    "latitude": 14.7944,
+    "longitude": 120.2714,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "09012",
+    "latitude": 49.4333,
+    "longitude": 7.6,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09114",
+    "latitude": 49.7173,
+    "longitude": 11.9065,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09141",
+    "latitude": 50.872,
+    "longitude": 9.7089,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09220",
+    "latitude": 50.0826,
+    "longitude": 8.2493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09641",
+    "latitude": 40.4165,
+    "longitude": -3.7026,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09655",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09713",
+    "latitude": 50.8483,
+    "longitude": 5.6889,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09832",
+    "latitude": 31.069,
+    "longitude": 34.1292,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09852",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09889",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "34050",
+    "latitude": 18.4786,
+    "longitude": -67.1688,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96284",
+    "latitude": 34.9586,
+    "longitude": 126.9728,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96378",
+    "latitude": 26.3086,
+    "longitude": 127.7804,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96409",
+    "latitude": 15.15,
+    "longitude": 120.5833,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96445",
+    "latitude": 15.1423,
+    "longitude": 120.9757,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96456",
+    "latitude": 15.3312,
+    "longitude": 120.5898,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96498",
+    "latitude": 14.7484,
+    "longitude": 120.965,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96550",
+    "latitude": -21.9306,
+    "longitude": 114.1209,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96107",
+    "latitude": 38.5029,
+    "longitude": -119.4828,
+    "placeName": "Coleville",
+    "state": "CA"
+  },
+  {
+    "zip": "96080",
+    "latitude": 40.1795,
+    "longitude": -122.2383,
+    "placeName": "Red Bluff",
+    "state": "CA"
+  },
+  {
+    "zip": "34138",
+    "latitude": 25.8129,
+    "longitude": -81.362,
+    "placeName": "Chokoloskee",
+    "state": "FL"
+  },
+  {
+    "zip": "34142",
+    "latitude": 26.1844,
+    "longitude": -81.4152,
+    "placeName": "Immokalee",
+    "state": "FL"
+  },
+  {
+    "zip": "34265",
+    "latitude": 27.1861,
+    "longitude": -81.8099,
+    "placeName": "Arcadia",
+    "state": "FL"
+  },
+  {
+    "zip": "34715",
+    "latitude": 28.6259,
+    "longitude": -81.7306,
+    "placeName": "Clermont",
+    "state": "FL"
+  },
+  {
+    "zip": "34481",
+    "latitude": 29.1281,
+    "longitude": -82.2975,
+    "placeName": "Ocala",
+    "state": "FL"
+  },
+  {
+    "zip": "34990",
+    "latitude": 27.1656,
+    "longitude": -80.2916,
+    "placeName": "Palm City",
+    "state": "FL"
+  },
+  {
+    "zip": "34761",
+    "latitude": 28.5837,
+    "longitude": -81.5326,
+    "placeName": "Ocoee",
+    "state": "FL"
+  },
+  {
+    "zip": "34741",
+    "latitude": 28.3051,
+    "longitude": -81.4242,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34683",
+    "latitude": 28.0662,
+    "longitude": -82.7585,
+    "placeName": "Palm Harbor",
+    "state": "FL"
+  },
+  {
+    "zip": "96773",
+    "latitude": 19.935,
+    "longitude": -155.1668,
+    "placeName": "Ninole",
+    "state": "HI"
+  },
+  {
+    "zip": "96706",
+    "latitude": 21.3274,
+    "longitude": -158.0103,
+    "placeName": "Ewa Beach",
+    "state": "HI"
+  },
+  {
+    "zip": "96846",
+    "latitude": 21.3206,
+    "longitude": -157.8699,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96703",
+    "latitude": 22.1423,
+    "longitude": -159.3139,
+    "placeName": "Anahola",
+    "state": "HI"
+  },
+  {
+    "zip": "96722",
+    "latitude": 22.2192,
+    "longitude": -159.4866,
+    "placeName": "Princeville",
+    "state": "HI"
+  },
+  {
+    "zip": "96054",
+    "latitude": 41.2347,
+    "longitude": -121.2156,
+    "placeName": "Lookout",
+    "state": "CA"
+  },
+  {
+    "zip": "34460",
+    "latitude": 28.8593,
+    "longitude": -82.5087,
+    "placeName": "Lecanto",
+    "state": "FL"
+  },
+  {
+    "zip": "34109",
+    "latitude": 26.2534,
+    "longitude": -81.7644,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34143",
+    "latitude": 26.4642,
+    "longitude": -81.5047,
+    "placeName": "Immokalee",
+    "state": "FL"
+  },
+  {
+    "zip": "34207",
+    "latitude": 27.4394,
+    "longitude": -82.5778,
+    "placeName": "Bradenton",
+    "state": "FL"
+  },
+  {
+    "zip": "34250",
+    "latitude": 27.5722,
+    "longitude": -82.5832,
+    "placeName": "Terra Ceia",
+    "state": "FL"
+  },
+  {
+    "zip": "34430",
+    "latitude": 29.0491,
+    "longitude": -82.4609,
+    "placeName": "Dunnellon",
+    "state": "FL"
+  },
+  {
+    "zip": "34734",
+    "latitude": 28.5384,
+    "longitude": -81.5208,
+    "placeName": "Gotha",
+    "state": "FL"
+  },
+  {
+    "zip": "34759",
+    "latitude": 28.0946,
+    "longitude": -81.499,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34235",
+    "latitude": 27.3672,
+    "longitude": -82.4848,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "34291",
+    "latitude": 27.0997,
+    "longitude": -82.2095,
+    "placeName": "North Port",
+    "state": "FL"
+  },
+  {
+    "zip": "96738",
+    "latitude": 19.9724,
+    "longitude": -155.818,
+    "placeName": "Waikoloa",
+    "state": "HI"
+  },
+  {
+    "zip": "96782",
+    "latitude": 21.4084,
+    "longitude": -157.9652,
+    "placeName": "Pearl City",
+    "state": "HI"
+  },
+  {
+    "zip": "96812",
+    "latitude": 21.3061,
+    "longitude": -157.8585,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96818",
+    "latitude": 21.3532,
+    "longitude": -157.9269,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96861",
+    "latitude": 21.3967,
+    "longitude": -157.8994,
+    "placeName": "Camp H M Smith",
+    "state": "HI"
+  },
+  {
+    "zip": "96754",
+    "latitude": 22.2073,
+    "longitude": -159.3954,
+    "placeName": "Kilauea",
+    "state": "HI"
+  },
+  {
+    "zip": "96768",
+    "latitude": 20.8469,
+    "longitude": -156.3327,
+    "placeName": "Makawao",
+    "state": "HI"
+  },
+  {
+    "zip": "96016",
+    "latitude": 40.9337,
+    "longitude": -121.5677,
+    "placeName": "Cassel",
+    "state": "CA"
+  },
+  {
+    "zip": "96079",
+    "latitude": 40.6866,
+    "longitude": -122.3348,
+    "placeName": "Shasta Lake",
+    "state": "CA"
+  },
+  {
+    "zip": "96091",
+    "latitude": 41.0615,
+    "longitude": -122.7239,
+    "placeName": "Trinity Center",
+    "state": "CA"
+  },
+  {
+    "zip": "09034",
+    "latitude": 49.6174,
+    "longitude": 7.3338,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09107",
+    "latitude": 48.1761,
+    "longitude": 9.5392,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09239",
+    "latitude": 49.1344,
+    "longitude": 10.0719,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09352",
+    "latitude": 49.568,
+    "longitude": 10.8856,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09609",
+    "latitude": 41.2141,
+    "longitude": 13.5708,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09683",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09720",
+    "latitude": 38.7167,
+    "longitude": -27.2167,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09811",
+    "latitude": 21.5424,
+    "longitude": 39.198,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09823",
+    "latitude": 39.9199,
+    "longitude": 32.8543,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09835",
+    "latitude": 30.0626,
+    "longitude": 31.2497,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09837",
+    "latitude": 26.2106,
+    "longitude": 50.6117,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09853",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "34034",
+    "latitude": -34.6131,
+    "longitude": -58.3772,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96266",
+    "latitude": 37.1522,
+    "longitude": 127.0706,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "09044",
+    "latitude": 49.9817,
+    "longitude": 11.6139,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09072",
+    "latitude": 50.8699,
+    "longitude": 6.6969,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09196",
+    "latitude": 50.0826,
+    "longitude": 8.2493,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09305",
+    "latitude": 49.6084,
+    "longitude": 7.1741,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09472",
+    "latitude": 51.7193,
+    "longitude": -1.9714,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09606",
+    "latitude": 39.3103,
+    "longitude": 8.9696,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09613",
+    "latitude": 43.5443,
+    "longitude": 10.3262,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09627",
+    "latitude": 37.4017,
+    "longitude": 14.9224,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09670",
+    "latitude": 44.0575,
+    "longitude": 12.5653,
+    "placeName": "FPO AE",
+    "state": ""
+  },
+  {
+    "zip": "09715",
+    "latitude": 52.0826,
+    "longitude": 4.315,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09716",
+    "latitude": 55.6947,
+    "longitude": 12.5832,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09749",
+    "latitude": 26.2886,
+    "longitude": 50.114,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09846",
+    "latitude": 35.3279,
+    "longitude": 25.1434,
+    "placeName": "APO AE",
+    "state": ""
+  },
+  {
+    "zip": "09888",
+    "latitude": 24.6877,
+    "longitude": 46.7218,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96313",
+    "latitude": 35.4919,
+    "longitude": 139.475,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96349",
+    "latitude": 35.2836,
+    "longitude": 139.6672,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96390",
+    "latitude": -23.697,
+    "longitude": 133.8818,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96540",
+    "latitude": 13.4757,
+    "longitude": 144.7489,
+    "placeName": "FPO AA",
+    "state": ""
+  },
+  {
+    "zip": "96548",
+    "latitude": -23.6975,
+    "longitude": 133.8836,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96556",
+    "latitude": 19.7542,
+    "longitude": -155.5858,
+    "placeName": "APO AA",
+    "state": ""
+  },
+  {
+    "zip": "96002",
+    "latitude": 40.5486,
+    "longitude": -122.3339,
+    "placeName": "Redding",
+    "state": "CA"
+  },
+  {
+    "zip": "96073",
+    "latitude": 40.5767,
+    "longitude": -122.2398,
+    "placeName": "Palo Cedro",
+    "state": "CA"
+  },
+  {
+    "zip": "96084",
+    "latitude": 40.794,
+    "longitude": -121.9419,
+    "placeName": "Round Mountain",
+    "state": "CA"
+  },
+  {
+    "zip": "96064",
+    "latitude": 41.7243,
+    "longitude": -122.4638,
+    "placeName": "Montague",
+    "state": "CA"
+  },
+  {
+    "zip": "96085",
+    "latitude": 41.7736,
+    "longitude": -122.9882,
+    "placeName": "Scott Bar",
+    "state": "CA"
+  },
+  {
+    "zip": "34452",
+    "latitude": 28.8358,
+    "longitude": -82.3304,
+    "placeName": "Inverness",
+    "state": "FL"
+  },
+  {
+    "zip": "34120",
+    "latitude": 26.3304,
+    "longitude": -81.5871,
+    "placeName": "Naples",
+    "state": "FL"
+  },
+  {
+    "zip": "34268",
+    "latitude": 27.1603,
+    "longitude": -81.8823,
+    "placeName": "Nocatee",
+    "state": "FL"
+  },
+  {
+    "zip": "34605",
+    "latitude": 28.5059,
+    "longitude": -82.4226,
+    "placeName": "Brooksville",
+    "state": "FL"
+  },
+  {
+    "zip": "34220",
+    "latitude": 27.5214,
+    "longitude": -82.5723,
+    "placeName": "Palmetto",
+    "state": "FL"
+  },
+  {
+    "zip": "34492",
+    "latitude": 28.998,
+    "longitude": -82.0161,
+    "placeName": "Summerfield",
+    "state": "FL"
+  },
+  {
+    "zip": "34973",
+    "latitude": 27.2439,
+    "longitude": -80.8298,
+    "placeName": "Okeechobee",
+    "state": "FL"
+  },
+  {
+    "zip": "34746",
+    "latitude": 28.268,
+    "longitude": -81.4675,
+    "placeName": "Kissimmee",
+    "state": "FL"
+  },
+  {
+    "zip": "34769",
+    "latitude": 28.248,
+    "longitude": -81.2876,
+    "placeName": "Saint Cloud",
+    "state": "FL"
+  },
+  {
+    "zip": "34638",
+    "latitude": 28.2478,
+    "longitude": -82.4962,
+    "placeName": "Land O Lakes",
+    "state": "FL"
+  },
+  {
+    "zip": "34979",
+    "latitude": 27.3822,
+    "longitude": -80.409,
+    "placeName": "Fort Pierce",
+    "state": "FL"
+  },
+  {
+    "zip": "34234",
+    "latitude": 27.3688,
+    "longitude": -82.5268,
+    "placeName": "Sarasota",
+    "state": "FL"
+  },
+  {
+    "zip": "96725",
+    "latitude": 19.6103,
+    "longitude": -155.9176,
+    "placeName": "Holualoa",
+    "state": "HI"
+  },
+  {
+    "zip": "96774",
+    "latitude": 20.0119,
+    "longitude": -155.2747,
+    "placeName": "Ookala",
+    "state": "HI"
+  },
+  {
+    "zip": "96785",
+    "latitude": 19.4801,
+    "longitude": -155.1974,
+    "placeName": "Volcano",
+    "state": "HI"
+  },
+  {
+    "zip": "96819",
+    "latitude": 21.3488,
+    "longitude": -157.8759,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96836",
+    "latitude": 21.2899,
+    "longitude": -157.8384,
+    "placeName": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "zip": "96860",
+    "latitude": 21.316,
+    "longitude": -157.8677,
+    "placeName": "Jbphh",
+    "state": "HI"
+  },
+  {
+    "zip": "96779",
+    "latitude": 20.9154,
+    "longitude": -156.3802,
+    "placeName": "Paia",
+    "state": "HI"
+  },
+  {
+    "zip": "96145",
+    "latitude": 39.1806,
+    "longitude": -120.1445,
+    "placeName": "Tahoe City",
+    "state": "CA"
+  }
+]

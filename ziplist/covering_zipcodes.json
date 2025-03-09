@@ -1,0 +1,450 @@
+[
+  {
+    "zip": "17201",
+    "location": "Chambersburg, PA",
+    "coordinates": [
+      39.9313,
+      -77.6579
+    ]
+  },
+  {
+    "zip": "47948",
+    "location": "Goodland, IN",
+    "coordinates": [
+      40.7669,
+      -87.2999
+    ]
+  },
+  {
+    "zip": "28905",
+    "location": "Marble, NC",
+    "coordinates": [
+      35.1475,
+      -83.9381
+    ]
+  },
+  {
+    "zip": "75451",
+    "location": "Leesburg, TX",
+    "coordinates": [
+      32.9763,
+      -95.1079
+    ]
+  },
+  {
+    "zip": "50561",
+    "location": "Lytton, IA",
+    "coordinates": [
+      42.423,
+      -94.8597
+    ]
+  },
+  {
+    "zip": "03845",
+    "location": "Intervale, NH",
+    "coordinates": [
+      44.0955,
+      -71.1194
+    ]
+  },
+  {
+    "zip": "93675",
+    "location": "Yokuts, CA",
+    "coordinates": [
+      36.7071,
+      -119.1814
+    ]
+  },
+  {
+    "zip": "39160",
+    "location": "Sallis, MS",
+    "coordinates": [
+      33.001,
+      -89.7552
+    ]
+  },
+  {
+    "zip": "32163",
+    "location": "The Villages, FL",
+    "coordinates": [
+      28.9338,
+      -81.9914
+    ]
+  },
+  {
+    "zip": "99336",
+    "location": "Kennewick, WA",
+    "coordinates": [
+      46.2109,
+      -119.168
+    ]
+  },
+  {
+    "zip": "67880",
+    "location": "Ulysses, KS",
+    "coordinates": [
+      37.5792,
+      -101.3488
+    ]
+  },
+  {
+    "zip": "87821",
+    "location": "Datil, NM",
+    "coordinates": [
+      34.0427,
+      -108.0183
+    ]
+  },
+  {
+    "zip": "65608",
+    "location": "Ava, MO",
+    "coordinates": [
+      36.9407,
+      -92.6765
+    ]
+  },
+  {
+    "zip": "55707",
+    "location": "Barnum, MN",
+    "coordinates": [
+      46.5196,
+      -92.6292
+    ]
+  },
+  {
+    "zip": "82942",
+    "location": "Point Of Rocks, WY",
+    "coordinates": [
+      41.6802,
+      -108.7857
+    ]
+  },
+  {
+    "zip": "76849",
+    "location": "Junction, TX",
+    "coordinates": [
+      30.4754,
+      -99.7473
+    ]
+  },
+  {
+    "zip": "27377",
+    "location": "Whitsett, NC",
+    "coordinates": [
+      36.033,
+      -79.5972
+    ]
+  },
+  {
+    "zip": "58650",
+    "location": "Regent, ND",
+    "coordinates": [
+      46.4235,
+      -102.5684
+    ]
+  },
+  {
+    "zip": "48722",
+    "location": "Bridgeport, MI",
+    "coordinates": [
+      43.3553,
+      -83.8549
+    ]
+  },
+  {
+    "zip": "86443",
+    "location": "Temple Bar Marina, AZ",
+    "coordinates": [
+      35.2106,
+      -114.1792
+    ]
+  },
+  {
+    "zip": "59743",
+    "location": "Melrose, MT",
+    "coordinates": [
+      45.6319,
+      -112.6845
+    ]
+  },
+  {
+    "zip": "97633",
+    "location": "Merrill, OR",
+    "coordinates": [
+      42.0295,
+      -121.5985
+    ]
+  },
+  {
+    "zip": "99691",
+    "location": "Nikolai, AK",
+    "coordinates": [
+      63.0133,
+      -154.375
+    ]
+  },
+  {
+    "zip": "77457",
+    "location": "Matagorda, TX",
+    "coordinates": [
+      28.6908,
+      -95.9675
+    ]
+  },
+  {
+    "zip": "68822",
+    "location": "Broken Bow, NE",
+    "coordinates": [
+      41.4126,
+      -99.6355
+    ]
+  },
+  {
+    "zip": "32569",
+    "location": "Mary Esther, FL",
+    "coordinates": [
+      30.4085,
+      -86.7352
+    ]
+  },
+  {
+    "zip": "88260",
+    "location": "Lovington, NM",
+    "coordinates": [
+      32.9512,
+      -103.3488
+    ]
+  },
+  {
+    "zip": "84635",
+    "location": "Hinckley, UT",
+    "coordinates": [
+      39.3308,
+      -112.6716
+    ]
+  },
+  {
+    "zip": "43112",
+    "location": "Carroll, OH",
+    "coordinates": [
+      39.7957,
+      -82.7084
+    ]
+  },
+  {
+    "zip": "99555",
+    "location": "Aleknagik, AK",
+    "coordinates": [
+      59.2697,
+      -158.6199
+    ]
+  },
+  {
+    "zip": "99812",
+    "location": "Juneau, AK",
+    "coordinates": [
+      58.3271,
+      -134.4742
+    ]
+  },
+  {
+    "zip": "58271",
+    "location": "Pembina, ND",
+    "coordinates": [
+      48.859,
+      -97.2886
+    ]
+  },
+  {
+    "zip": "33194",
+    "location": "Miami, FL",
+    "coordinates": [
+      25.5584,
+      -80.4582
+    ]
+  },
+  {
+    "zip": "99784",
+    "location": "White Mountain, AK",
+    "coordinates": [
+      64.6814,
+      -163.4056
+    ]
+  },
+  {
+    "zip": "81435",
+    "location": "Telluride, CO",
+    "coordinates": [
+      37.94,
+      -107.8214
+    ]
+  },
+  {
+    "zip": "99731",
+    "location": "Fort Greely, AK",
+    "coordinates": [
+      63.952,
+      -146.451
+    ]
+  },
+  {
+    "zip": "13650",
+    "location": "Henderson, NY",
+    "coordinates": [
+      43.8467,
+      -76.2352
+    ]
+  },
+  {
+    "zip": "98343",
+    "location": "Joyce, WA",
+    "coordinates": [
+      48.1362,
+      -123.7354
+    ]
+  },
+  {
+    "zip": "59542",
+    "location": "Turner, MT",
+    "coordinates": [
+      48.8328,
+      -108.3961
+    ]
+  },
+  {
+    "zip": "29907",
+    "location": "Beaufort, SC",
+    "coordinates": [
+      32.4316,
+      -80.6698
+    ]
+  },
+  {
+    "zip": "49826",
+    "location": "Rumely, MI",
+    "coordinates": [
+      46.3483,
+      -87.0332
+    ]
+  },
+  {
+    "zip": "99553",
+    "location": "Akutan, AK",
+    "coordinates": [
+      54.143,
+      -165.7854
+    ]
+  },
+  {
+    "zip": "04785",
+    "location": "Van Buren, ME",
+    "coordinates": [
+      47.1589,
+      -67.9459
+    ]
+  },
+  {
+    "zip": "99721",
+    "location": "Anaktuvuk Pass, AK",
+    "coordinates": [
+      68.1433,
+      -151.7358
+    ]
+  },
+  {
+    "zip": "85634",
+    "location": "Sells, AZ",
+    "coordinates": [
+      32.0315,
+      -112.0065
+    ]
+  },
+  {
+    "zip": "38222",
+    "location": "Buchanan, TN",
+    "coordinates": [
+      36.4146,
+      -88.1515
+    ]
+  },
+  {
+    "zip": "83604",
+    "location": "Bruneau, ID",
+    "coordinates": [
+      42.614,
+      -115.8419
+    ]
+  },
+  {
+    "zip": "99759",
+    "location": "Point Lay, AK",
+    "coordinates": [
+      69.7439,
+      -163.0084
+    ]
+  },
+  {
+    "zip": "99547",
+    "location": "Atka, AK",
+    "coordinates": [
+      52.1961,
+      -174.2006
+    ]
+  },
+  {
+    "zip": "99603",
+    "location": "Homer, AK",
+    "coordinates": [
+      59.5374,
+      -151.2356
+    ]
+  },
+  {
+    "zip": "95421",
+    "location": "Cazadero, CA",
+    "coordinates": [
+      38.5918,
+      -123.1965
+    ]
+  },
+  {
+    "zip": "99660",
+    "location": "Saint Paul Island, AK",
+    "coordinates": [
+      57.1842,
+      -170.2764
+    ]
+  },
+  {
+    "zip": "99630",
+    "location": "Mekoryuk, AK",
+    "coordinates": [
+      60.3657,
+      -166.2836
+    ]
+  },
+  {
+    "zip": "59930",
+    "location": "Rexford, MT",
+    "coordinates": [
+      48.9179,
+      -115.2129
+    ]
+  },
+  {
+    "zip": "70397",
+    "location": "Theriot, LA",
+    "coordinates": [
+      29.4516,
+      -90.7651
+    ]
+  },
+  {
+    "zip": "99742",
+    "location": "Gambell, AK",
+    "coordinates": [
+      63.7766,
+      -171.7017
+    ]
+  }
+]
