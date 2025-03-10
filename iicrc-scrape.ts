@@ -1,7 +1,21 @@
 import { clear } from 'console';
 import { get } from 'http';
 import { resolve } from 'path';
+import { timeStamp } from 'console';
 import { Browser, BrowserContext, Page, Keyboard, launch } from 'puppeteer';
+import * as fs from 'fs';
+
+interface BusinessListing {
+    businessName: string;
+    address: string;
+    city: string;
+    state: string;
+    postalCode: string;
+    phone: string;
+    website: string;
+    email: string;
+}
+
 
 async function waitFor(page: Page, duration: number = 1000, timeout: number = 30000): Promise<void> {
     const start = Date.now();
@@ -139,7 +153,7 @@ async function waitFor(page: Page, duration: number = 1000, timeout: number = 30
         await page.setGeolocation({ latitude: -33.9249, longitude: 18.4241 });
 
         const screenrecorder = await page.screencast({
-            path: 'screenrecorder.webm'
+            path: 'screencasts/screenrecorder.webm'
         });
 
         await page.goto('https://iicrcnetforum.bullseyelocations.com/pages/iicrc-netforum?f=1', {
@@ -170,21 +184,107 @@ async function waitFor(page: Page, duration: number = 1000, timeout: number = 30
         await waitFor(page, 2000, 30000);
 
         await page.screenshot({
-            path: 'search-results.png',
+            path: 'screenshots/search-results.png',
             fullPage: true
         });
 
-        const listings = await page.$$('div.resultsDetails h3[itemprop="name"]');
+        const listings = await page.$$('div.resultsDetails');
 
         if (listings.length === 0) {
             console.log('No listings found');
-            await page.screenshot({path: 'no-listings-found.png'});
+            await page.screenshot({path: 'screenshots/no-listings-found.png'});
         } else {
+            console.log(`Found ${listings.length} listings`);
+            let listingsData: BusinessListing[] = [];
+
             for (const listing of listings) {
-                const name = await page.evaluate((el: Element) => el.textContent, listing);
-                console.log(name);
+                const businessName = await listing.$eval('h3[itemprop="name"]', (el: Element) => el.textContent?.trim());
+                const address = await listing.$eval('address span[itemprop="streetAddress"]', (el: Element) => el.textContent?.trim());
+                const city = await listing.$eval('address span[itemprop="addressLocality"]', (el: Element) => el.textContent?.trim());
+                const state = await listing.$eval('address span[itemprop="addressRegion"]', (el: Element) => el.textContent?.trim());
+                const postalCode = await listing.$eval('address span[itemprop="postalCode"]', (el: Element) => el.textContent?.trim());
+                const phone = await listing.$eval('span[itemprop="telephone"]', (el: Element) => {
+                    const phoneText = el.textContent?.trim() || '';
+                    // Extract only the digits from the phone number
+                    const digits = phoneText.replace(/\D/g, '');
+                    // If US number with country code (11 digits starting with 1), remove the 1
+                    if (digits.length === 11 && digits.startsWith('1')) {
+                        return digits.substring(1);
+                    }
+                    // Return just the digits (should be 10 for US numbers)
+                    return digits;
+                });
+                const website = await listing.$eval('a#website', (el: Element) => {
+                    const href = el.getAttribute('href')?.trim() || '';
+                    // Normalize URL to ensure it has a protocol
+                    if (!href) return '';
+                    try {
+                        // Use URL constructor to parse and normalize the URL
+                        const url = new URL(href, 'https://example.com');
+                        // Return the full URL with protocol
+                        return url.protocol.startsWith('http') ? url.toString() : `https://${href}`;
+                    } catch (e) {
+                        // If URL is invalid, try adding https:// prefix
+                        return href.match(/^https?:\/\//) ? href : `https://${href}`;
+                    }
+                });
+                const email = await listing.$eval('a#emailContact', (el: Element) => {
+                    const href = el.getAttribute('href')?.trim() || '';
+                    return href.startsWith('mailto:') ? href.substring(7) : href;
+                });
+
+                // Log to console
+                console.log('Business Name:', businessName);
+                console.log('Address:', address);
+                console.log('City:', city);
+                console.log('State:', state);
+                console.log('Postal Code:', postalCode);
+                console.log('Phone:', phone);
+                console.log('Website:', website);
+                console.log('Email:', email);
+                console.log('--------------------------------------');
+
+                // Create business object for JSON
+                const businessData: BusinessListing = {
+                    businessName: businessName || '',
+                    address: address || '',
+                    city: city || '',
+                    state: state || '',
+                    postalCode: postalCode || '',
+                    phone: phone || '',
+                    website: website || '',
+                    email: email || ''
+                };
+
+                // Add to listings array for JSON file
+                listingsData.push(businessData);
+
+                // Append to text file
+                const txtEntry = `Business Name: ${businessName || 'N/A'}\n` +
+                    `Address: ${address || 'N/A'}\n` +
+                    `City: ${city || 'N/A'}\n` +
+                    `State: ${state || 'N/A'}\n` +
+                    `Postal Code: ${postalCode || 'N/A'}\n` +
+                    `Phone: ${phone || 'N/A'}\n` +
+                    `Website: ${website || 'N/A'}\n` +
+                    `Email: ${email || 'N/A'}\n` +
+                    '--------------------------------------\n';
+
+                // Append to txt file
+                fs.appendFileSync('listings.txt', txtEntry);
             }
+
+            const jsonOutput = {
+                businesses: listingsData,
+                count: listingsData.length,
+                scrapeDate: new Date().toISOString()
+            }
+
+            // Save all listings to JSON file
+            fs.writeFileSync('listings.json', JSON.stringify(jsonOutput, null, 2));
+            console.log(`Saved ${listingsData.length} listings to listings.json and listings.txt`);
         }
+
         await screenrecorder.stop();
         await page.close();
     } catch (error) {

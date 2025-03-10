@@ -1,0 +1,506 @@
+{
+  "businesses": [
+    {
+      "businessName": "Mr. Michael A. Rossel",
+      "address": "1040 Woodlore Cir",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "postalCode": "32563",
+      "phone": "8503802334",
+      "website": "",
+      "email": "carpetcareplus1@aol.com"
+    },
+    {
+      "businessName": "JESAL HOLDINGS LLC DBA SERVPRO OF FORT WALTON BEACH",
+      "address": "425B Mary Esther Cutoff New",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "postalCode": "32548",
+      "phone": "8508632552",
+      "website": "https://servprofortwaltonbeach.com/",
+      "email": "OFFICE@SERVPRODESTIN.COM"
+    },
+    {
+      "businessName": "Fusion Cleaning & Restoration",
+      "address": "124 Patrick Dr",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postalCode": "32547",
+      "phone": "8506516600",
+      "website": "http://www.emeraldcoastfusion.com/",
+      "email": "info@fusioncarpetcare.com"
+    },
+    {
+      "businessName": "Pablo J. Duque",
+      "address": "124 Patrick Dr",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postalCode": "32547",
+      "phone": "8506516600",
+      "website": "http://www.emeraldcoastfusion.com/",
+      "email": "pablo@fusioncrsfl.com"
+    },
+    {
+      "businessName": "CC&SS Inc. DBA Stanley Steemer - Fort Walton Beach, FL",
+      "address": "119 Hollywood Blvd NW, UNIT 12",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "postalCode": "32548",
+      "phone": "8508631244",
+      "website": "https://www.stanleysteemer.com/location-details/FL/Fort-Walton-Beach/2000064?utm_source=google&utm_medium=organic&utm_campaign=gmb_ws",
+      "email": ""
+    },
+    {
+      "businessName": "Jeremy B. Walker",
+      "address": "3345 Addison DR",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32514",
+      "phone": "8503876979",
+      "website": "",
+      "email": "brent@servpronorthpensacola.com"
+    },
+    {
+      "businessName": "Mr. Charles D. Myers",
+      "address": "3345 Addison Dr.",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32514",
+      "phone": "8505324383",
+      "website": "",
+      "email": "daniel@servpronorthpensacola.com"
+    },
+    {
+      "businessName": "Proclean Restoration & Cleaning",
+      "address": "3255 Potter ST Ste C",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32514",
+      "phone": "8504848500",
+      "website": "http://www.procleanrestoration.com/",
+      "email": "procleanfinerug@yahoo.com"
+    },
+    {
+      "businessName": "AB Restoration Florida, LLC",
+      "address": "201 Pensacola Beach Rd.",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "postalCode": "32561",
+      "phone": "2398885803",
+      "website": "",
+      "email": "office@abrestorationflorida.com"
+    },
+    {
+      "businessName": "Escarosa Cleaning & Restoration, Llc.",
+      "address": "9011 N Davis Hwy",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32514",
+      "phone": "8504326060",
+      "website": "http://www.escarosacleaningandrestoration.com/",
+      "email": ""
+    },
+    {
+      "businessName": "Stanley Steemer Carpet Cleaners - Pensacola",
+      "address": "1014 Creighton Road",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32514",
+      "phone": "3527264646",
+      "website": "https://www.stanleysteemer.com/",
+      "email": ""
+    },
+    {
+      "businessName": "First Onsite",
+      "address": "511 Wynnehurst St",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32503",
+      "phone": "8502255354",
+      "website": "http://www.completedki.com/",
+      "email": "pensacola.ap@firstonsite.com"
+    },
+    {
+      "businessName": "Mr. Connor W. Emerson",
+      "address": "313 Hilburn PL",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32504",
+      "phone": "8505018840",
+      "website": "",
+      "email": "Cemerson.ar@gmail.com"
+    },
+    {
+      "businessName": "HPL Enterprises, LLC DBA Rytech Restoration of Mobile-Pensacola",
+      "address": "770 Van Pelt LN Ste E",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32505",
+      "phone": "8008658787",
+      "website": "https://rytechinc.com/",
+      "email": ""
+    },
+    {
+      "businessName": "Kg Restoration",
+      "address": "727 Ashley DR",
+      "city": "Crestview",
+      "state": "FL",
+      "postalCode": "32536",
+      "phone": "85040931822",
+      "website": "http://www.kgrestore.com/",
+      "email": "kgrestoration@yahoo.com"
+    },
+    {
+      "businessName": "Restoration and Recovery Contractors of America",
+      "address": "1249 S Old Corry Field Rd, Suite A",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32507",
+      "phone": "8507549957",
+      "website": "https://myrestorationpros.com/",
+      "email": "m.sanders@myrestorationpros.comm"
+    },
+    {
+      "businessName": "Stone Family Enterprises Dba Servpro Of West Pensacola",
+      "address": "1101 S Fairfield Dr",
+      "city": "Pensacola",
+      "state": "FL",
+      "postalCode": "32506",
+      "phone": "8504691160",
+      "website": "http://www.servprowestpensacola.com/",
+      "email": "office@servprowestpensacola.com"
+    },
+    {
+      "businessName": "Maranatha Construction Services LLC",
+      "address": "5856 Houston Ln",
+      "city": "Crestview",
+      "state": "FL",
+      "postalCode": "32539",
+      "phone": "8503989609",
+      "website": "https://www.maranathaconstructionservicesllc.com/",
+      "email": "ehann@hotmail.com"
+    },
+    {
+      "businessName": "Michael P. Conroy",
+      "address": "15740 Bishop Trce",
+      "city": "Lillian",
+      "state": "AL",
+      "postalCode": "36549",
+      "phone": "8507776655",
+      "website": "",
+      "email": "mikcon1@gmail.com"
+    },
+    {
+      "businessName": "Interstate Restoration LLC",
+      "address": "9300 Emerald Coast Pkwy W, Suite B",
+      "city": "Miramar Beach, FL",
+      "state": "FL",
+      "postalCode": "32550",
+      "phone": "8006226433",
+      "website": "https://firstonsite.com/",
+      "email": "jesus.miranda@firstonsite.com"
+    },
+    {
+      "businessName": "National Restore Llc",
+      "address": "29451 US-98 Bldg 5",
+      "city": "Elberta",
+      "state": "AL",
+      "postalCode": "36530",
+      "phone": "",
+      "website": "http://www.nationalrestorellc.com/",
+      "email": ""
+    },
+    {
+      "businessName": "John Kirkley",
+      "address": "5217 Hickory Lane",
+      "city": "Orange Beach",
+      "state": "AL",
+      "postalCode": "36561",
+      "phone": "3347281150",
+      "website": "http://www.peachesnclean.com/",
+      "email": "JOHNRKIRKLEY@GMAIL.COM"
+    },
+    {
+      "businessName": "Mr. Jeffrey L. Thompson",
+      "address": "Po Box 2225",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "postalCode": "32459",
+      "phone": "8505851482",
+      "website": "",
+      "email": "jeff@driprorestoration.com"
+    },
+    {
+      "businessName": "Connor W. Kyzer",
+      "address": "24193 Pilgrim RD",
+      "city": "Elberta",
+      "state": "AL",
+      "postalCode": "36530",
+      "phone": "2512135524",
+      "website": "",
+      "email": "ckyzer94@gmail.com"
+    },
+    {
+      "businessName": "Kenny Fuqua",
+      "address": "Po Box 972",
+      "city": "Orange Beach",
+      "state": "AL",
+      "postalCode": "36561",
+      "phone": "",
+      "website": "",
+      "email": "kennyfuquanogoodemail@gmail.com"
+    },
+    {
+      "businessName": "Alexandria B. Jennings",
+      "address": "25299 CANAL ROAD, SUITE 8-B, Orange Beach AL 36561",
+      "city": "Orange Beach",
+      "state": "AL",
+      "postalCode": "36561",
+      "phone": "2512333720",
+      "website": "http://www.coastalexposures.pro/",
+      "email": "ali@coastal-contractors.com"
+    },
+    {
+      "businessName": "Advanced Carpet Cleaning & Restoration Llc",
+      "address": "24252 Canal Rd, Ste A",
+      "city": "Orange Beach",
+      "state": "AL",
+      "postalCode": "36561",
+      "phone": "9551234",
+      "website": "http://www.callonthepros.com/",
+      "email": ""
+    },
+    {
+      "businessName": "Mr. William B. Craig",
+      "address": "176 E Bayou Forest Dr",
+      "city": "Freeport",
+      "state": "FL",
+      "postalCode": "32439",
+      "phone": "8506606900",
+      "website": "",
+      "email": "WBC1369@ICLOUD.COM"
+    },
+    {
+      "businessName": "Mark Wichern",
+      "address": "233 Ramsey Branch Rd",
+      "city": "Freeport",
+      "state": "FL",
+      "postalCode": "32439",
+      "phone": "8005607903",
+      "website": "http://www.restorationcoach.com/",
+      "email": "wish@restorationcoach.com"
+    },
+    {
+      "businessName": "Veritas Restoration & Remediation, LLC",
+      "address": "233 Ramsey Branch Road",
+      "city": "Freeport",
+      "state": "FL",
+      "postalCode": "32439",
+      "phone": "8508355677",
+      "website": "https://veritasrestoration.com/",
+      "email": "admin@veritasrestoration.com"
+    },
+    {
+      "businessName": "Sandi J. Taylor",
+      "address": "710 Black Creek Lodge Rf, RV 21",
+      "city": "Freeport",
+      "state": "FL",
+      "postalCode": "32439",
+      "phone": "2542182144",
+      "website": "",
+      "email": "sanditaylor66@gmail.com"
+    },
+    {
+      "businessName": "Ed Wade Services, Llc Dba Paul Davis Emergency Services Of Baldwin County",
+      "address": "706 W Laurel Ave",
+      "city": "Foley",
+      "state": "AL",
+      "postalCode": "36535",
+      "phone": "2519482291",
+      "website": "",
+      "email": "pdesbaldwin.admin@pauldavis.com"
+    },
+    {
+      "businessName": "Royal Plus Inc. - Alabama",
+      "address": "17935 US Highway 98",
+      "city": "Foley",
+      "state": "AL",
+      "postalCode": "36535",
+      "phone": "4106773473",
+      "website": "https://royalplus.com/",
+      "email": "Accounting@royalplus.com"
+    },
+    {
+      "businessName": "Sean S. Edwards",
+      "address": "17355 Tallasee Blvd",
+      "city": "Foley",
+      "state": "AL",
+      "postalCode": "36535",
+      "phone": "5025236954",
+      "website": "",
+      "email": "sean.edwards.0928@gmail.com"
+    },
+    {
+      "businessName": "Jonathan E. Nelson",
+      "address": "10685 Nelson LN",
+      "city": "Foley",
+      "state": "AL",
+      "postalCode": "36535",
+      "phone": "2517523891",
+      "website": "http://icsrestorations.com/",
+      "email": "jonathan@priorityresponseusa.com"
+    },
+    {
+      "businessName": "Kacie L. Minchew",
+      "address": "20351 Lawrence RD",
+      "city": "Fairhope",
+      "state": "AL",
+      "postalCode": "36532",
+      "phone": "2513314699",
+      "website": "",
+      "email": "KMINCHEW@SERVPROTEAMMAYHALL.COM"
+    },
+    {
+      "businessName": "Billy G. Simmons",
+      "address": "8248 Delta Woods Dr",
+      "city": "Bay Minette",
+      "state": "AL",
+      "postalCode": "36507",
+      "phone": "2516097906",
+      "website": "http://www.itacinternational.com/",
+      "email": "itacint@gmail.com"
+    },
+    {
+      "businessName": "Paul Davis Restoration Of The Emerald Coast",
+      "address": "104 Amar Dr.",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "postalCode": "32413",
+      "phone": "8509093011",
+      "website": "http://emerald-coast.pauldavis.com/",
+      "email": "officeEC@pauldavis.com"
+    },
+    {
+      "businessName": "Paul Johnston",
+      "address": "13800 Panama City Beach Pkwy, STE 106 #144",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "postalCode": "32407",
+      "phone": "",
+      "website": "",
+      "email": "ap@restore-one.com"
+    },
+    {
+      "businessName": "Michael H. Taylor",
+      "address": "112 Johnson Bayou DR",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "postalCode": "32407",
+      "phone": "8505862037",
+      "website": "https://restorationwizard.com/",
+      "email": "mike@level3homeinspections.com"
+    },
+    {
+      "businessName": "Servpro Of Mobile County",
+      "address": "Po Box 160687",
+      "city": "Mobile",
+      "state": "AL",
+      "postalCode": "36616",
+      "phone": "2513430534",
+      "website": "http://www.servpromobilecounty.com/",
+      "email": "dradecki@servproteammayhall.com"
+    },
+    {
+      "businessName": "Daystar Cleaning Inc",
+      "address": "1814 Beck Ave",
+      "city": "Panama City",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "8507690606104",
+      "website": "http://www.daystarcleaning.com/",
+      "email": "office@daystarcleaning.com"
+    },
+    {
+      "businessName": "Floodpros, USA",
+      "address": "2110 W 23rd St Suite A",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "8503871243",
+      "website": "https://www.floodprosusa.com/",
+      "email": "krystina.b@floodprosusa.com"
+    },
+    {
+      "businessName": "Jamie Penn",
+      "address": "1816 W 27th ST",
+      "city": "Panama City",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "3072588912",
+      "website": "",
+      "email": "Jamie.penn@southerncatusa.com"
+    },
+    {
+      "businessName": "Jennifer C. Hoyal",
+      "address": "1816 W 27th St",
+      "city": "Panama City",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "8506301648",
+      "website": "",
+      "email": "jennifer@southerncatusa.com"
+    },
+    {
+      "businessName": "Mr. James C. Meitzler",
+      "address": "1816 W 27th ST",
+      "city": "Panama City",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "6156135286",
+      "website": "",
+      "email": "CHAD.MEITZLER@SOUTHERNCATUSA.COM"
+    },
+    {
+      "businessName": "Mr. Jon M. Mettille",
+      "address": "1816 W 27th ST",
+      "city": "Panama City",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "8506245335",
+      "website": "",
+      "email": "JON@SOUTHERNCATUSA.COM"
+    },
+    {
+      "businessName": "SouthernCAT, Inc.",
+      "address": "1816 W 27th Street",
+      "city": "Panama City",
+      "state": "FL",
+      "postalCode": "32405",
+      "phone": "8502152280",
+      "website": "https://www.southerncatusa.com/",
+      "email": "info@southerncatusa.com"
+    },
+    {
+      "businessName": "Servicemaster Advanced Cleaning",
+      "address": "5158 Mobile South St",
+      "city": "Theodore",
+      "state": "AL",
+      "postalCode": "36582",
+      "phone": "2516539333",
+      "website": "http://www.svmadvancedcleaning.com/",
+      "email": "info@svmadvancedcleaning.com"
+    },
+    {
+      "businessName": "Mr. Johnny Zermeno",
+      "address": "2707 Ashlee Way",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "postalCode": "32444",
+      "phone": "8508321710",
+      "website": "",
+      "email": "johnnyzermeno@icloud.com"
+    }
+  ],
+  "count": 50,
+  "scrapeDate": "2025-03-10T15:56:59.967Z"
+}
