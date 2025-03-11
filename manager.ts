@@ -155,7 +155,7 @@ class JobManager {
     // Step 1: Run the scraper
     job.status = 'scraping';
     console.log(`[${zipCode}] Running scraper...`);
-    const scrapeResult = spawnSync('ts-node', ['scrape.ts', zipCode], { 
+    const scrapeResult = spawnSync('tsx', ['scrape.ts', zipCode], { 
       stdio: 'inherit',
       encoding: 'utf-8'
     });

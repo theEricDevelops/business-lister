@@ -1,6 +1,10 @@
 # Dependency directories
-node_modules/
+node_modules*
+node_modules/*
 jspm_packages/
+
+screencasts
+screenshots
 
 # Build output
 dist/
