@@ -1,9 +1,13 @@
-import { clear } from 'console';
-import { get } from 'http';
-import { resolve } from 'path';
-import { timeStamp } from 'console';
-import { Browser, BrowserContext, Page, Keyboard, launch } from 'puppeteer';
+import pkg from 'pg';
+const { Pool, PoolClient } = pkg;
+import { Browser, BrowserContext, Page, launch } from 'puppeteer';
+import * as dotenv from 'dotenv';
 import * as fs from 'fs';
+
+let pool: InstanceType<typeof Pool>;
+
+// Load the .env file into process.env
+dotenv.config();
 
 interface BusinessListing {
     businessName: string;
@@ -15,7 +19,6 @@ interface BusinessListing {
     website: string;
     email: string;
 }
-
 
 async function waitFor(page: Page, duration: number = 1000, timeout: number = 30000): Promise<void> {
     const start = Date.now();
@@ -66,7 +69,70 @@ async function waitFor(page: Page, duration: number = 1000, timeout: number = 30
     throw new Error('Timeout');
 }
 
+// Create a function that opens the database connection based on the .env file
+// This function will be called in the main function to open the connection
+// and then close it after the main function has completed
+async function openDatabaseConnection(): Promise<void> {
+    pool = new Pool({
+        host: process.env.DB_HOST,
+        port: parseInt(process.env.DB_PORT || '5432'),
+        database: process.env.DB_NAME,
+        user: process.env.DB_NAME || 'doadmin',
+        password: process.env.DB_PASSWORD,
+        ssl: {
+            rejectUnauthorized: false
+        }
+    });
+
+    console.log('Opening database connection...');
+
+    try {
+        const client: InstanceType<typeof PoolClient> = await pool.connect();
+        console.log('Database connection opened');
+        return client;
+    } catch (error) {
+        console.error('Error opening database connection:', error);
+        throw error;
+    }
+}
+
+async function closeDatabaseConnection(): Promise<void> {
+    if(pool) {
+        console.log('Closing database connection pool...');
+        await pool.end();
+        console.log('Database connection pool closed');
+    }
+}
+
+async function checkForTable(client: InstanceType<typeof PoolClient>, table: string): Promise<void> {
+    console.log(`Checking for table ${table}...`);
+
+    try {
+        await client.query(
+            `CREATE TABLE IF NOT EXISTS ${table} (
+                id SERIAL PRIMARY KEY,
+                business_name VARCHAR(255) NOT NULL,
+                address VARCHAR(255) NOT NULL,
+                city VARCHAR(255) NOT NULL,
+                state VARCHAR(255) NOT NULL,
+                postal_code VARCHAR(10) NOT NULL,
+                phone VARCHAR(15) NOT NULL,
+                website VARCHAR(255),
+                email VARCHAR(255),
+                scrape_date TIMESTAMP NOT NULL,
+                UNIQUE(business_name, postal_code)
+            )`
+        );
+
+        console.log(`Table ${table} exists or was created successfully`);
+    } catch (error) {
+        console.error(`Error creating table ${table}:`, error);
+        throw error;
+    }
+}
+
 (async (): Promise<void> => {
+    let dbClient: InstanceType<typeof PoolClient> | null = null;
     const browser: Browser = await launch({
         headless: true,
         args: [
@@ -84,7 +150,32 @@ async function waitFor(page: Page, duration: number = 1000, timeout: number = 30
 
     const page: Page = await context.newPage();
 
+    // Read the ziplist/covering_zipcodes.json file and parse it for zip codes
+    /* It's in the format: [
+        {
+            "zip": "17201",
+            "location": "Chambersburg, PA",
+            "coordinates": [
+            39.9313,
+            -77.6579
+            ]
+        },
+        {
+            "zip": "47948",
+            "location": "Goodland, IN",
+            "coordinates": [
+            40.7669,
+            -87.2999
+            ]
+        }]*/
+
+    const zipCodes: string[] = JSON.parse(fs.readFileSync('ziplist/covering_zipcodes.json', 'utf8'));
+
+
     try {
+        dbClient = await openDatabaseConnection();
+        checkForTable(dbClient, 'businesses');
+
         await page.evaluateOnNewDocument(() => {
             const mockGeolocation = {
                 getCurrentPosition: (success: PositionCallback, error?: PositionErrorCallback) => {
@@ -233,6 +324,32 @@ async function waitFor(page: Page, duration: number = 1000, timeout: number = 30
                     return href.startsWith('mailto:') ? href.substring(7) : href;
                 });
 
+                await dbClient.query(
+                    `INSERT INTO businesses(
+                        business_name,
+                        address,
+                        city,
+                        state,
+                        postal_code,
+                        phone,
+                        website,
+                        email,
+                        scrape_date
+                    ) VALUES($1, $2, $3, $4, $5, $6, $7, $8, $9,
+                     [
+                        businessName,
+                        address,
+                        city,
+                        state,
+                        postalCode,
+                        phone,
+                        website,
+                        email,
+                        new Date().toISOString()
+                    ])`
+                );
+                console.log(`Inserted ${businessName} into the database`);
+
                 // Log to console
                 console.log('Business Name:', businessName);
                 console.log('Address:', address);
@@ -290,6 +407,11 @@ async function waitFor(page: Page, duration: number = 1000, timeout: number = 30
     } catch (error) {
         console.error("An error occurred: ", error);
     } finally {
+        if (dbClient) {
+            await dbClient.release();
+            await closeDatabaseConnection();
+        }
+
         await browser.close();
     }
 })();
