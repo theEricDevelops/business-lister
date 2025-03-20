@@ -28,6 +28,11 @@ const BusinessDetail: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [mapCoordinates, setMapCoordinates] = useState<LatLngExpression | null>(null);
   const [geocodingError, setGeocodingError] = useState<string | null>(null);
+  const [verifying, setVerifying] = useState(false);
+  const [verificationResult, setVerificationResult] = useState<{
+    success: boolean;
+    message: string;
+  } | null>(null);
 
   // Fetch business details
   useEffect(() => {
@@ -171,6 +176,41 @@ const BusinessDetail: React.FC = () => {
     }
   }, [business]);
 
+  const handleAddressVerification = async () => {
+    if (!business || !business.id) return;
+    
+    try {
+      setVerifying(true);
+      setVerificationResult(null);
+      
+      const response = await fetch(`/api/address/verify/${business.id}`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+      
+      const result = await response.json();
+      
+      setVerificationResult({
+        success: result.success,
+        message: result.message
+      });
+      
+      if (result.success) {
+        // Update the business object with verified address
+        setBusiness(result.business);
+      }
+    } catch (error) {
+      setVerificationResult({
+        success: false,
+        message: 'Error verifying address'
+      });
+    } finally {
+      setVerifying(false);
+    }
+  };
+
   if (loading) {
     return (
       <div className="loading-container">
@@ -215,6 +255,22 @@ const BusinessDetail: React.FC = () => {
                 {business.address}<br />
                 {business.city}, {business.state} {business.postalcode}
               </span>
+              
+              {/* Add the verify address button */}
+              <button 
+                onClick={handleAddressVerification}
+                disabled={verifying}
+                className="verify-address-button"
+              >
+                {verifying ? 'Verifying...' : 'Verify Address with USPS'}
+              </button>
+              
+              {/* Show verification result */}
+              {verificationResult && (
+                <div className={`verification-result ${verificationResult.success ? 'success' : 'error'}`}>
+                  {verificationResult.message}
+                </div>
+              )}
             </div>
             
             {business.phone && (

@@ -5,6 +5,7 @@ export interface BusinessListing {
   city?: string;
   state?: string;
   postalcode?: string;
+  zipCodePlus4?: string;
   phone?: string;
   website?: string;
   email?: string;

@@ -2,6 +2,7 @@ import express from 'express';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import businessRouter from './api/businesses';
+import addressRouter from './api/address';
 import syncRouter from './api/sync';
 import Logger from './utils/logger';
 import { initDB } from './utils/database';
@@ -15,6 +16,7 @@ const logger = new Logger('server.log');
 
 app.use(express.json());
 
+app.use('/api/address', addressRouter);
 app.use('/api/businesses', businessRouter);
 app.use('/api/sync', syncRouter);
 
