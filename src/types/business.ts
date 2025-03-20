@@ -4,10 +4,12 @@ export interface BusinessListing {
   address?: string;
   city?: string;
   state?: string;
-  postalCode?: string;
+  postalcode?: string;
   phone?: string;
   website?: string;
   email?: string;
+  category?: string;
+  source?: string;
 }
 
 export interface ListingsFile {
@@ -29,4 +31,15 @@ export interface ScrapedEntry {
 
 export interface ZipCodeCsvRow {
   [key: string]: string | undefined;
+}
+
+export interface Filters {
+  search: string;
+  category: string;
+  state: string;
+  city: string;
+  postalcode: string;
+  hasEmail: boolean;
+  hasPhone: boolean;
+  hasWebsite: boolean;
 }

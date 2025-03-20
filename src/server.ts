@@ -3,9 +3,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import businessRouter from './api/businesses';
 import syncRouter from './api/sync';
-import { getDatabase } from './services/database';
 import Logger from './utils/logger';
-import { initDB } from './utils/database.utils';
+import { initDB } from './utils/database';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -13,7 +12,6 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = process.env.PORT || 3001;
 const logger = new Logger('server.log');
-const db = getDatabase();
 
 app.use(express.json());
 

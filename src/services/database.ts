@@ -93,7 +93,7 @@ export class DatabaseService {
       logger.info(`Table columns: ${tableInfo.map((c: any) => c.column_name).join(', ')}`);
 
       const businesses = await this.query<BusinessListing>(
-        'SELECT id, name, address, city, state, postalcode, phone, website, email FROM businesses ORDER BY name'
+        'SELECT id, name, address, city, state, postalcode, phone, website, email, category, source FROM businesses ORDER BY name'
       );
       logger.info(`Retrieved ${businesses.length} businesses`);
       return businesses;
@@ -107,8 +107,7 @@ export class DatabaseService {
   async getBusinessById(id: number): Promise<BusinessListing | null> {
     try {
       const businesses = await this.query<BusinessListing>(
-        'SELECT id, name, address, city, state, postalcode, ' +
-        'phone, website, email FROM businesses WHERE id = $1',
+        'SELECT id, name, address, city, state, postalcode, phone, website, email, category, source FROM businesses WHERE id = $1',
         [id]
       );
       return businesses[0] || null;
