@@ -16,7 +16,7 @@ export default class Logger {
     private consoleOutput: number;
 
     constructor(logFilePath: string = 'app.log', consoleOutput: string | number = 'INFO') {
-        this.logFilePath = logFilePath;
+        this.logFilePath = 'logs/' + logFilePath;
         typeof(consoleOutput) === 'string' ? 
             this.consoleOutput = logLevels[consoleOutput] : 
             this.consoleOutput = consoleOutput;

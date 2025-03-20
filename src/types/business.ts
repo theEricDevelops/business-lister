@@ -1,12 +1,13 @@
 export interface BusinessListing {
-  businessName: string;
-  address: string;
-  city: string;
-  state: string;
-  postalCode: string;
-  phone: string;
-  website: string;
-  email: string;
+  id: number;
+  name: string;
+  address?: string;
+  city?: string;
+  state?: string;
+  postalCode?: string;
+  phone?: string;
+  website?: string;
+  email?: string;
 }
 
 export interface ListingsFile {

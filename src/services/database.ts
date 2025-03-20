@@ -1,22 +1,42 @@
-import pkg from 'pg';
-const { Pool } = pkg;
-import { DbConfig, getDbConfig } from '../config';
-import { createLogger } from '../utils/logger';
+import { Pool, PoolClient } from 'pg';
+import { DbConfig, getDbConfig } from '../config/database';
+import Logger from '../utils/logger';
+import { BusinessListing } from '../types/business';
 
-const logger = createLogger('DatabaseService');
+const logger = new Logger('database-service.log');
+
+// Use a module-level variable for the singleton instance
+let instance: DatabaseService | null = null;
 
 /**
- * Service for database operations
+ * Service for database operations - implemented as a true singleton
  */
 export class DatabaseService {
-  private pool: pkg.Pool;
+  private pool: Pool;
   
-  constructor(config?: DbConfig) {
-    this.pool = new Pool(config || getDbConfig());
-    logger.info(`Database connection initialized to: ${config?.host || getDbConfig().host}`);
+  // Private constructor prevents direct instantiation
+  private constructor() {
+    const dbConfig = getDbConfig();
+    logger.info(`Initializing database connection to: ${dbConfig.host}:${dbConfig.port}/${dbConfig.database}`);
+    this.pool = new Pool(dbConfig);
+    
+    // Test the connection
+    this.pool.query('SELECT NOW()')
+      .then(() => logger.info('Connected to PostgreSQL database successfully'))
+      .catch(err => logger.error('Database connection test failed', err));
   }
   
-  async getClient(): Promise<pkg.PoolClient> {
+  /**
+   * Get the singleton instance
+   */
+  public static getInstance(): DatabaseService {
+    if (!instance) {
+      instance = new DatabaseService();
+    }
+    return instance;
+  }
+  
+  async getClient(): Promise<PoolClient> {
     try {
       const client = await this.pool.connect();
       logger.debug('Got database client from pool');
@@ -58,17 +78,51 @@ export class DatabaseService {
     await this.pool.end();
     logger.info('Database connection pool closed');
   }
+
+  // Add method to fetch businesses
+  async getBusinesses(): Promise<BusinessListing[]> {
+    try {
+      logger.info('Fetching all businesses from database');
+      const businesses = await this.query<BusinessListing>(
+        'SELECT id, business_name as "businessName", address, city, state, postal_code as "postalCode", ' +
+        'phone, website, email, zip_code as "zipCode" FROM businesses ORDER BY business_name'
+      );
+      logger.info(`Retrieved ${businesses.length} businesses`);
+      return businesses;
+    } catch (error) {
+      logger.error('Error fetching businesses:', error as Error);
+      return [];
+    }
+  }
+  
+  // Get business by ID
+  async getBusinessById(id: number): Promise<BusinessListing | null> {
+    try {
+      const businesses = await this.query<BusinessListing>(
+        'SELECT id, business_name as "businessName", address, city, state, postal_code as "postalCode", ' +
+        'phone, website, email, zip_code as "zipCode" FROM businesses WHERE id = $1',
+        [id]
+      );
+      return businesses[0] || null;
+    } catch (error) {
+      logger.error(`Error fetching business with ID ${id}:`, error as Error);
+      return null;
+    }
+  }
 }
 
-// Singleton instance
-let dbService: DatabaseService | null = null;
+// Export the singleton getter method
+export const getDatabase = DatabaseService.getInstance;
 
-/**
- * Gets or creates the database service instance
- */
-export function getDatabaseService(): DatabaseService {
-  if (!dbService) {
-    dbService = new DatabaseService();
-  }
-  return dbService;
+// For backwards compatibility, also export a default instance
+const dbService = DatabaseService.getInstance();
+export default dbService;
+
+// Helper functions
+export async function getBusinesses(): Promise<BusinessListing[]> {
+  return dbService.getBusinesses();
+}
+
+export async function getBusinessById(id: number): Promise<BusinessListing | null> {
+  return dbService.getBusinessById(id);
 }

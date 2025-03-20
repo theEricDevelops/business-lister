@@ -1,25 +1,31 @@
 {
   "dependencies": {
     "@types/adm-zip": "^0.5.7",
-    "@types/node": "^22.13.10",
+    "@types/cheerio": "^0.22.35",
+    "@types/glob": "^8.1.0",
     "@types/papaparse": "^5.3.15",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
     "adm-zip": "^0.5.16",
+    "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
     "fs": "^0.0.1-security",
+    "glob": "^11.0.1",
     "papaparse": "^5.5.2",
-    "pg": "^8.13.3",
+    "pg": "^8.14.1",
     "pg-boss": "^10.1.6",
     "puppeteer": "^24.4.0",
-    "ts-node": "^10.9.2"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.0"
   },
   "name": "business-lister",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
-    "start": "npm run build && node dist/index.js",
-    "build": "tsc",
-    "dev": "tsx src/index.ts",
+    "start": "node dist/server.js",
+    "build": "webpack --mode production && tsc -p tsconfig.node.json",
+    "dev": "concurrently \"webpack serve --mode development\" \"nodemon --exec tsx src/server.ts\"",
     "postinstall": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -31,7 +37,18 @@
     "@types/pg": "^8.11.11",
     "@types/puppeteer": "^5.4.7",
     "axios": "^1.8.2",
+    "concurrently": "^9.1.2",
+    "css-loader": "^7.1.2",
+    "express": "^4.21.2",
+    "html-webpack-plugin": "^5.6.3",
+    "nodemon": "^3.1.9",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.2",
+    "ts-node": "^10.9.2",
     "tsx": "^4.19.3",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.2",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
   }
 }

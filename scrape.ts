@@ -12,7 +12,7 @@ const logLevels: { [key: string]: number } = {
     DEBUG: 0
 };
 
-class Logger {
+export class Logger {
     private logFilePath: string;
     private consoleOutput: number;
 
@@ -647,18 +647,18 @@ async function trackInput(page: Page, selector: string, value: string, descripti
         if (inputValue === value) {
             logger.info(`Value successfully entered into ${description}`);
 
-            await page.screenshot({ path: `screenshots/zip-entry-${value}.png`, fullPage: false });
+            await page.screenshot({ path: `output/screenshots/zip-entry-${value}.png`, fullPage: false });
 
         } else {
             logger.error(`Input value mismatch: expected ${value}, got ${inputValue}`);
-            await page.screenshot({ path: `screenshots/input-mismatch-${new Date().toISOString().replace(/[:.]/g, '-')}.png`, fullPage: true });
+            await page.screenshot({ path: `output/screenshots/input-mismatch-${new Date().toISOString().replace(/[:.]/g, '-')}.png`, fullPage: true });
         }
     } catch (error) {
         logger.error(`Failed to type into ${description}`, error as Error);
 
         // Take a screenshot to help debug the issue
         await page.screenshot({
-            path: `screenshots/input-error-${new Date().toISOString().replace(/[:.]/g, '-')}.png`,
+            path: `output/screenshots/input-error-${new Date().toISOString().replace(/[:.]/g, '-')}.png`,
             fullPage: true
         });
 
@@ -710,6 +710,21 @@ function validateWebsite(el: Element): string {
 function validateEmail(el: Element): string {
         const href = el.getAttribute('href')?.trim() || '';
         return href.startsWith('mailto:') ? href.substring(7) : href;
+}
+
+function isZipCodeAlreadyScraped(zipCode: string): boolean {
+    const jsonFilePath = `output/json/listings_${zipCode}.json`;
+
+    try {
+        if (fs.existsSync(jsonFilePath)) {
+            logger.info(`Zip code ${zipCode} has already been scraped`);
+            return true;
+        }
+        return false;
+    } catch (error) {
+        logger.error(`Error checking for existing zip code data: ${error.message}`);
+        return false;
+    }
 }
 
 async function performSearch(page: Page, zipCode: string): Promise<void> {
@@ -782,10 +797,16 @@ async function performSearch(page: Page, zipCode: string): Promise<void> {
         dbClient = await openDatabaseConnection();
         await checkForTable(dbClient, 'businesses');
         
-        let i = 0;
-        while (i <= zipCodes.length) {
+        for (let i = 0; i < zipCodes.length; i++) {
             const zipData = zipCodes[i];
             const zipCode = zipData.zip;
+
+            logger.info(`===Checking zip code ${zipCode} (${zipData.location})===`);
+
+            if (isZipCodeAlreadyScraped(zipCode)) {
+                logger.info(`Skipping zip code ${zipCode} as it has already been scraped`);
+                continue;
+            }
             
             logger.info(`===Processing zip code ${zipCode} (${zipData.location})===`);
             try {
@@ -803,7 +824,7 @@ async function performSearch(page: Page, zipCode: string): Promise<void> {
 
             logger.info('Starting screen recording');
             const screenrecorder = await page.screencast({
-                path: `screencasts/screenrecorder_${zipCode}.webm`
+                path: `output/screencasts/screenrecorder_${zipCode}.webm`
             });
 
             // Use the enhanced navigation function
@@ -835,7 +856,7 @@ async function performSearch(page: Page, zipCode: string): Promise<void> {
 
             logger.info(`Taking screenshot of search results for ${zipCode}`);
             await page.screenshot({
-                path: `screenshots/search-results_${zipCode}_${Date.now()}.png`,
+                path: `output/screenshots/search-results_${zipCode}_${Date.now()}.png`,
                 fullPage: true
             });
 
@@ -844,7 +865,7 @@ async function performSearch(page: Page, zipCode: string): Promise<void> {
 
             if (listings.length === 0) {
                 logger.warning(`No listings found for ${zipCode}`);
-                await page.screenshot({path: `screenshots/no-listings-found_${zipCode}.png`});
+                await page.screenshot({path: `output/screenshots/no-listings-found_${zipCode}.png`});
             } else {
                 logger.info(`Found ${listings.length} listings`);
                 let listingsData: BusinessListing[] = [];
@@ -1001,7 +1022,7 @@ async function performSearch(page: Page, zipCode: string): Promise<void> {
 
                         // Append to txt file
                         try {
-                            fs.appendFileSync(`listings-${zipCode}.txt`, txtEntry);
+                            fs.appendFileSync(`output/txt/listings-${zipCode}.txt`, txtEntry);
                         } catch (listingError) {
                             logger.error(`Failed to write listing to text file:`, listingError as Error);
                         }
@@ -1021,22 +1042,19 @@ async function performSearch(page: Page, zipCode: string): Promise<void> {
                 }
 
                 // Save all listings to JSON file
-                fs.writeFileSync(`listings_${zipCode}.json`, JSON.stringify(jsonOutput, null, 2));
+                fs.writeFileSync(`output/json/listings_${zipCode}.json`, JSON.stringify(jsonOutput, null, 2));
                 logger.info(`Saved ${listingsData.length} listings to listings_${zipCode}.json and listings-${zipCode}.txt`);
             }
 
-            i++;
+            
 
             logger.info('Stopping screen recording');
             await screenrecorder.stop();
 
             logger.info('Closing page');
             await page.close();
-            i++;
         } catch (error) {
             logger.error(`An error occurred while processing zip code ${zipCode}`, error as Error);
-
-            i++;
 
             logger.info('Waiting 5 seconds before trying the next zip code');
             await new Promise(resolve => setTimeout(resolve, 5000));

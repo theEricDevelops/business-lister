@@ -1,0 +1,102 @@
+.businesses-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.business-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.business-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.business-card h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.business-card p {
+  margin: 8px 0;
+  color: #666;
+}
+
+.business-card a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.business-card a:hover {
+  text-decoration: underline;
+}
+
+.error-message {
+  background-color: #ffebee;
+  border-left: 4px solid #f44336;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 4px;
+}
+
+.error-message p {
+  color: #d32f2f;
+  margin: 0 0 8px 0;
+}
+
+.error-message button {
+  background-color: #d32f2f;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.error-message button:hover {
+  background-color: #b71c1c;
+}
+
+/* Add these to your existing styles.css */
+
+.sync-container {
+  background-color: #e3f2fd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.sync-button {
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.sync-button:hover {
+  background-color: #1976d2;
+}
+
+.sync-button:disabled {
+  background-color: #bbdefb;
+  cursor: not-allowed;
+}
+
+.sync-result {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #4caf50;
+}
