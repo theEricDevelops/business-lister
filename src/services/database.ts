@@ -83,9 +83,17 @@ export class DatabaseService {
   async getBusinesses(): Promise<BusinessListing[]> {
     try {
       logger.info('Fetching all businesses from database');
+
+      const tableInfo = await this.query(
+        `SELECT column_name
+        FROM information_schema.columns
+        WHERE table_name = 'businesses'`
+      );
+
+      logger.info(`Table columns: ${tableInfo.map((c: any) => c.column_name).join(', ')}`);
+
       const businesses = await this.query<BusinessListing>(
-        'SELECT id, business_name as "businessName", address, city, state, postal_code as "postalCode", ' +
-        'phone, website, email, zip_code as "zipCode" FROM businesses ORDER BY business_name'
+        'SELECT id, name, address, city, state, postalcode, phone, website, email FROM businesses ORDER BY name'
       );
       logger.info(`Retrieved ${businesses.length} businesses`);
       return businesses;
@@ -99,8 +107,8 @@ export class DatabaseService {
   async getBusinessById(id: number): Promise<BusinessListing | null> {
     try {
       const businesses = await this.query<BusinessListing>(
-        'SELECT id, business_name as "businessName", address, city, state, postal_code as "postalCode", ' +
-        'phone, website, email, zip_code as "zipCode" FROM businesses WHERE id = $1',
+        'SELECT id, name, address, city, state, postalcode, ' +
+        'phone, website, email FROM businesses WHERE id = $1',
         [id]
       );
       return businesses[0] || null;

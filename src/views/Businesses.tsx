@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { BusinessListing } from '../types/business';
 import { createLogger } from '../services/frontend-logger';
+import { SyncProgress } from '../types/db';
 
 const logger = createLogger('BusinessesView');
 
@@ -11,6 +12,8 @@ const Businesses: React.FC = () => {
   const [syncNeeded, setSyncNeeded] = useState(false);
   const [syncing, setSyncing] = useState(false);
   const [syncResult, setSyncResult] = useState<string | null>(null);
+  const [syncProgress, setSyncProgress] = useState<SyncProgress | null>(null);
+  const [progressInterval, setProgressInterval] = useState<number | null>(null);
 
   const fetchBusinesses = async () => {
     try {
@@ -45,12 +48,38 @@ const Businesses: React.FC = () => {
 
   useEffect(() => {
     fetchBusinesses();
+
+    return () => {
+      if (progressInterval) {
+        clearInterval(progressInterval);
+      }
+    };
 }, []);
+
+const checkSyncProgress = async () => {
+  try {
+    const response = await fetch('/api/sync/progress');
+    const progress = await response.json();
+    setSyncProgress(progress);
+
+    if (!progress.inProgress && progressInterval) {
+      clearInterval(progressInterval);
+      setProgressInterval(null);
+
+      if (progress.processed > 0) {
+        await fetchBusinesses();
+      }
+    }
+  } catch (error) {
+    logger.error('Failed to check sync progress:', error);
+  }
+};
 
 const handleSync = async () => {
   try {
     setSyncing(true);
     setSyncResult(null);
+    setSyncProgress(null);
 
     logger.info('Starting database sync');
     const response = await fetch('/api/sync', { 
@@ -59,6 +88,9 @@ const handleSync = async () => {
         'Content-Type': 'application/json'
       }
     });
+
+    const interval = setInterval(checkSyncProgress, 1000);
+    setProgressInterval(interval);
 
     if (!response.ok) {
       throw new Error(`Failed to sync database: ${response.statusText}`);
@@ -73,9 +105,19 @@ const handleSync = async () => {
     const errorMessage = error instanceof Error ? error.message : 'An error occurred';
     logger.error(errorMessage);
     setSyncResult(errorMessage);
+
+    if (progressInterval) {
+      clearInterval(progressInterval);
+      setProgressInterval(null);
+    }
   } finally {
     setSyncing(false);
   }
+};
+
+const calculateProgress = () => {
+  if (!syncProgress || syncProgress.total === 0) return 0;
+  return Math.round((syncProgress.processed / syncProgress.total) * 100);
 };
 
   return (
@@ -100,6 +142,24 @@ const handleSync = async () => {
             >
               {syncing ? 'Syncing...' : 'Sync Database'}
             </button>
+
+            {syncing && syncProgress && (
+              <div className="sync-progress">
+                <div className="progress-bar">
+                  <div
+                    className="progress-fill"
+                    style={{ width: `${calculateProgress()}%` }}
+                  ></div>
+                </div>
+                <div className="progress-details">
+                  <p>Processing: {syncProgress.currentZipCode}</p>
+                  <p>Businesses: {syncProgress.processed} of {syncProgress.total}</p>
+                  <p>Zip Codes: {syncProgress.completedZipCodes} of {syncProgress.totalZipCodes}</p>
+                  <p>{calculateProgress()}% complete</p>
+                </div>
+              </div>
+            )}
+
             {syncResult && <p className="sync-result">{syncResult}</p>}
           </div>
         )}

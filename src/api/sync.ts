@@ -1,5 +1,5 @@
 import express from 'express';
-import { syncDatabaseFromJsonFiles, checkDatabaseEmpty } from '../services/database-sync';
+import { syncDatabaseFromJsonFiles, checkDatabaseEmpty, getSyncProgress } from '../services/database-sync';
 import Logger from '../utils/logger';
 
 const router = express.Router();
@@ -13,6 +13,17 @@ router.get('/status', async (req, res) => {
   } catch (error) {
     logger.error('Error checking sync status', error as Error);
     res.status(500).json({ error: 'Failed to check sync status' });
+  }
+});
+
+// Check sync progress
+router.get('/progress', async (req, res) => {
+  try {
+    const progress = await getSyncProgress();
+    res.json(progress);
+  } catch (error) {
+    logger.error('Error checking sync progress', error as Error);
+    res.status(500).json({ error: 'Failed to check sync progress' });
   }
 });
 
